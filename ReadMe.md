@@ -4,7 +4,7 @@ Target ideal Ontology for building semantic-driven PLM (Prodcut Lifecycle Manage
 
 Mantra
 -
-In order to design a Product, you also need a Product ...
+In order to design a Product, you also need a Product ...  
 ... so the ontology and the meta-ontology should be the same !
 
 Motivation
