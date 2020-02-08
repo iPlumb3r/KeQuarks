@@ -14,5 +14,5 @@ Specifying a kind of Ontology skeleton for being able to quickly define an Ontol
 
 Conceptionay
 -
-Here after a link tho the conceptionary of The "M" Ontology :   
+Here after a link to the conceptionary of The "M" Ontology :   
 https://docs.google.com/spreadsheets/d/19F5RKX3Jg7xKRgc6FDe4GP9RVMZ2IBdWvcVB1bqZKdI/
