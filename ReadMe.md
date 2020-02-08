@@ -13,6 +13,6 @@ Specifying a kind of Ontology skeleton for being able to quickly define an Ontol
 ... based on strong design rule and robust business invariants
 
 Conceptionay
-==
+-
 Here after a link tho the conceptionary of this ontoloy
-https://docs.google.com/spreadsheets/d/19F5RKX3Jg7xKRgc6FDe4GP9RVMZ2IBdWvcVB1bqZKdI/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/19F5RKX3Jg7xKRgc6FDe4GP9RVMZ2IBdWvcVB1bqZKdI/
