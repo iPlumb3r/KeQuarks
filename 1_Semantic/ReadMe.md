@@ -64,7 +64,7 @@ Key Concepts
             <td>#1 #2(s)</td>
             <td>#2 of #1</td>
             <td>Tuple Type</td>
-            <td>>As - given - set of "similar" tuple(s)</td>
+            <td>As - given - set of "similar" tuple(s)</td>
             <td>Start with a "uppercase"</td>
         </tr>
         <tr>
@@ -73,7 +73,7 @@ Key Concepts
             <td>#2 #2(s)</td>
             <td>#2 of all #2(s)</td>
             <td>Things</td>
-            <td>>The set of all sets</td>
+            <td>The set of all sets</td>
             <td>End with a "s"</td>
         </tr>
     </tbody>
