@@ -45,10 +45,24 @@ Tableau :
         </tr>
         <tr>
             <td>Grakn</td>
-            <td>Semantic Web</td>
+            <td>Graph Database</td>
             <td><a href="https://grakn.ai/">Grakn Labs</a></td>
             <td>Role based modeling</td>
             <td><a href="https://blog.grakn.ai/get-started-with-grakn-ai-72bb210f915c">Getting Started Web Page</a></td>
+        </tr>
+        <tr>
+            <td>O-O Language(s)</td>
+            <td>Computer Science</td>
+            <td>N/A</td>
+            <td></td>
+            <td><a href="https://en.wikipedia.org/wiki/Object-oriented_programming">Wikipedia (EN)</a></td>
+        </tr>
+        <tr>
+            <td>Set Theory</td>
+            <td>Mathematics</td>
+            <td>N/A</td>
+            <td></td>
+            <td><a href="https://en.wikipedia.org/wiki/Set_theory">Wikipedia (EN)</a></td>
         </tr>
     </tbody>
     </tbody>
