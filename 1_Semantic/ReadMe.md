@@ -172,7 +172,7 @@ Mapping with other paradigms
             <td>tuple</td>
             <td>Type</td>
             <td>Topic Type</td>
-            <td>Tuple TypeA</td>
+            <td>Tuple Type</td>
             <td>Things</td>
             <td></td>
         </tr>
