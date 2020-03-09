@@ -41,9 +41,12 @@ EBR URL :
 
 Key Point(s)
 -
+To Be Completed ...
 
 Strength(s)
 -
+To Be Completed ...
 
 Weakness(es)
 -
+To Be Completed ...
