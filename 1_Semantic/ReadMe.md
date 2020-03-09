@@ -52,8 +52,12 @@ Main Concepts
     </tbody>
 </table>
 
-__Imporant Note__ :
+__Important Note 1__ :
 * As a #1 is also a #0, the (Meta-)Model automatically provide a reification mechanism !
+
+__Important Note 2__ :
+* If #1 (tuple) arity is = 2 the it better to have a "orientation" (e.g. starts from / ends to)
+* If #1 (tuple) arity is > 2 there is a need for #Role concept
 
 Key Concepts
 -
