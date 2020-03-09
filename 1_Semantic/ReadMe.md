@@ -108,7 +108,7 @@ Others (Non Mandatory) Concepts
         <tr>
             <td>#6</td>
             <td>Property</td>
-            <td>A characteritic of a thing</td>
+            <td>A characteristic of a thing</td>
             <td>N/A</td>
             <td>#6 is a #1 towards specific #2</td>
         </tr>
