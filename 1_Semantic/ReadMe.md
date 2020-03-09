@@ -59,7 +59,7 @@ __Important Note 2__ :
 * If #1 (tuple) arity is = 2 the it better to have a "orientation" (e.g. starts from / ends to)
 * If #1 (tuple) arity is > 2 there is a need for #RoleType (& #Role) concept(s)
 
-Derived Concepts
+Derived (Useful) Concepts
 -
 <table>
     <thead>
@@ -78,7 +78,7 @@ Derived Concepts
             <td>#3</td>
             <td>#0 #2(s)</td>
             <td>#2 of #0</td>
-            <td>A type of topics (Topic Type</td>
+            <td>A type of topics (Topic Type)</td>
             <td>As - given - set of "similar" topic(s)</td>
             <td></td>
             <td>#3 is a #2</td>
@@ -104,6 +104,50 @@ Derived Concepts
     </tbody>
 </table>
 
+Other (Non Mandatory) Concepts
+-
+<table>
+    <thead>
+        <tr>
+            <th>Concept ID</th>
+            <th>Path</th>
+            <th>Path</th>
+            <th>Prefered Label</th>
+            <th>Description</th>
+            <th>Example</th>
+            <th>Comment</th>         
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>#6</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Property</td>
+            <td>As - given - set of "similar" topic(s)</td>
+            <td></td>
+            <td>#6 is a #1 towards specific #2</td>
+        </tr>
+        <tr>
+            <td>#4</td>
+            <td>#1 #2(s)</td>
+            <td>#2 of #1</td>
+            <td>A type of tuples (Tuple Type)</td>
+            <td>As - given - set of "similar" tuple(s)</td>
+            <td></td>
+            <td>#4 is a #2</td>
+        </tr>
+        <tr>
+            <td>#5</td>
+            <td>#2 #2(s)</td>
+            <td>#2 of all #2(s)</td>
+            <td>Things</td>
+            <td>The set of all topics</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 Mapping with other paradigms
 -
