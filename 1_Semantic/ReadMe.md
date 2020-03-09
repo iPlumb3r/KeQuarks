@@ -92,7 +92,7 @@ Derived (Useful) Concepts
     </tbody>
 </table>
 
-Other (Non Mandatory) Concepts
+Others (Non Mandatory) Concepts
 -
 <table>
     <thead>
@@ -109,14 +109,14 @@ Other (Non Mandatory) Concepts
             <td>#6</td>
             <td>Property</td>
             <td>A characteritic of a thing</td>
-            <td>"Tim Berner Lee" . "birth date" = "1955 June 8"</td>
+            <td>N/A</td>
             <td>#6 is a #1 towards specific #2</td>
         </tr>
         <tr>
             <td>#7</td>
             <td>Type Property</td>
             <td>A characteristic of a topic</td>
-            <td>"Persons" . "birth date"</td>
+            <td>"Tim Berner Lee" . "birth date" = "1955 June 8"</td>
             <td>#</td>
         </tr>
         <tr>
@@ -130,14 +130,14 @@ Other (Non Mandatory) Concepts
             <td>#9</td>
             <td>Topic Type Property</td>
             <td>Property which characterize all topic of a given Topic Type</td>
-            <td></td>
+            <td>"Persons" . "birth date"</td>
             <td></td>
         </tr>
         <tr>
             <td>#9</td>
             <td>Tuple Type Property</td>
             <td>Property which characterize all tuple of a given Tuple Type</td>
-            <td></td>
+            <td>"Persons" => "Organizations" . "hiring date"</td>
             <td></td>
         </tr>
     </tbody>
