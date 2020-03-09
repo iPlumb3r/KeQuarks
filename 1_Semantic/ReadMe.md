@@ -54,18 +54,27 @@ Key Concepts
             <td>Derived</td>
             <td>#0 #2(s)</td>
             <td>#2 of #0</td>
-            <td>Topic Types</td>
-            <td>Set of particular thing sets</td>
-            <td></td>
+            <td>Topic Type</td>
+            <td>As - given - set of "similar" topic(s)</td>
+            <td>Start with a "uppercase"</td>
         </tr>
         <tr>
             <td>#4</td>
             <td>Derived</td>
             <td>#1 #2(s)</td>
             <td>#2 of #1</td>
-            <td>Tuple Types</td>
-            <td>Set of links between particular thing sets</td>
+            <td>Tuple Type</td>
+            <td>>As - given - set of "similar" tuple(s)</td>
+            <td>Start with a "uppercase"</td>
+        </tr>
+        <tr>
+            <td>#5</td>
+            <td>Derived</td>
             <td></td>
+            <td></td>
+            <td>Things</td>
+            <td>>The set of all sets</td>
+            <td>End with a "s"</td>
         </tr>
     </tbody>
 </table>
