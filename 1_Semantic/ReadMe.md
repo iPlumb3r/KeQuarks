@@ -7,7 +7,7 @@ In order to avoid any debate about terminology :
 * Concepts are here primary identified by a non significative IDs (A prefered label is just provided as an example) ...
 * ... then, those Concepts are "mapped" with Terms used by each paradigm
 
-Key Concepts
+Main Concepts
 -
 <table>
     <thead>
@@ -49,6 +49,27 @@ Key Concepts
             <td>A set of particular things.</td>
             <td>A #2 is - aslo - a #0</td>
         </tr>
+    </tbody>
+</table>
+
+__Imporant Note__ :
+* As a #1 is also a #0, the (Meta-)Model automatically provide a reification mechanism !
+
+Key Concepts
+-
+<table>
+    <thead>
+        <tr>
+            <th>Concept ID</th>
+            <th>1st or ... ?</th>
+            <th>Path</th>
+            <th>Path</th>
+            <th>Prefered Label</th>
+            <th>Description</th>
+            <th>Comment</th>         
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <td>#3</td>
             <td>...</td>
@@ -79,8 +100,6 @@ Key Concepts
     </tbody>
 </table>
 
-__Imporant Note__ :
-* As a #1 is also a #0, the (Meta-)Model automatically provide a reification mechanism !
 
 Mapping with other paradigms
 -
