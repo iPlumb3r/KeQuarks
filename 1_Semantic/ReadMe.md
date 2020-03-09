@@ -150,4 +150,4 @@ Working space = <a href="https://docs.google.com/spreadsheets/d/1LW_tBNss0VV0i_m
 
 __Remark__ : GitHub not useful for "big" table. See this clicable table :
 
-![CxP](https://github.com/iPlumb3r/KnowledgeEngineeringParticles/tree/master/images)
+![CxP](https://github.com/iPlumb3r/KnowledgeEngineeringParticles/blob/master/images/Concepts_x_Paradigms_2020-03-09.png)
