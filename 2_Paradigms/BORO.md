@@ -38,14 +38,13 @@ ID Card
 EBR URL : 
 -
 <a href="https://www.topincs.com/EntangledBootstrap/">To Be Defined</a>
-
-_Business Objects : Re-Engineering For Re-Use (Page 23) :_  
-People naturally see the world in terms of attributes belonging to entities (though theymight not call them that). When most people see a red car, they think they see a carwith the property (attribute) of redness. They are not seeing objects because neither thecar nor its red attribute are objects.
-         
+      
 Key Point(s)
 -
 Handle concept #6 to #10 (Properties) as classes
 
+_Business Objects : Re-Engineering For Re-Use (Page 23) :_  
+People naturally see the world in terms of attributes belonging to entities (though theymight not call them that). When most people see a red car, they think they see a carwith the property (attribute) of redness. They are not seeing objects because neither thecar nor its red attribute are objects.
 
 
 Strength(s)
