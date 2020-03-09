@@ -45,9 +45,27 @@ Key Concepts
             <td>1st</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>type</td>
+            <td>Type</td>
             <td>A set of particular things. A #2 is - aslo - a #0</td>
-            <td>start with a "lowercase"</td>
+            <td>Start with a "uppercase"</td>
+        </tr>
+        <tr>
+            <td>#3</td>
+            <td>Derived</td>
+            <td>#0 #2(s)</td>
+            <td>#2 of #0</td>
+            <td>Topic Types</td>
+            <td>Set of particular thing sets</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#4</td>
+            <td>Derived</td>
+            <td>#1 #2(s)</td>
+            <td>#2 of #1</td>
+            <td>Tuple Types</td>
+            <td>Set of links between particular thing sets</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
