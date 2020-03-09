@@ -32,7 +32,7 @@ Key Concepts
             <td>Start with a "lowercase"</td>
         </tr>
         <tr>
-            <td>#2</td>
+            <td>#1</td>
             <td>1st</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -41,7 +41,7 @@ Key Concepts
             <td>Start with a "lowercase"</td>
         </tr>
         <tr>
-            <td>#1</td>
+            <td>#2</td>
             <td>1st</td>
             <td>N/A</td>
             <td>N/A</td>
