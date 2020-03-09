@@ -175,9 +175,9 @@ Mapping with other paradigms
             <td>N/A</td>
             <td>Set</td>
             <td>N/A</td>
-            <td>Set of all Sets</td>
-            <td>N/A</td>
-            <td>-</td>
+            <td>NA/</td>
+            <td>Set of all elements</td>
+            <td>Not suitable for relation between elements</td>
         </tr>
     </tbody>
 </table>
