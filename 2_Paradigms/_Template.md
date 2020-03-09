@@ -30,13 +30,16 @@ ID Card
         </tr>
           <tr>
             <td>Resource</td>
-            <td>Book : ...<td>
+            <td>Book : ...</td>
         </tr>
     </tbody>
 </table>
 
-Strengths
+Key Point(s)
 -
 
-Weaknesses
+Strength(s)
+-
+
+Weakness(es)
 -
