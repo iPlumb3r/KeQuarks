@@ -37,7 +37,7 @@ Main Concepts
             <td>N/A</td>
             <td>tuple</td>
             <td>A link between 2 (or potentially more ?) particular things.</td>
-            <td>A - untyped, but directed - link between "Tim Berner Lee" & "W3C"</td>
+            <td>A - untyped, but oriented - link between "Tim Berner Lee" & "W3C"</td>
             <td> A #1 is - aslo - a #0</td>
         </tr>
         <tr>
