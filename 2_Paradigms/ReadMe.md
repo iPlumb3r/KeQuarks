@@ -32,14 +32,14 @@ Tableau :
         <tr>
             <td>RDF(S)-OWL</td>
             <td>Semantic Web</td>
-            <td><a href="https://www.w3.org/standards/semanticweb/">W3C (SW Section)k</a></td>
+            <td><a href="https://www.w3.org/standards/semanticweb/">W3C (SW Section)</a></td>
             <td>-</td>
             <td><a href="https://www.w3.org/RDF/">RDF</a>, <a href="https://www.w3.org/TR/rdf-schema/">RDFS</a> & <a href="https://www.w3.org/OWL/">OWL</a></td>
         </tr>
         <tr>
             <td>Topic Maps</td>
             <td>Semantic Web</td>
-            <td><a href="https://www.w3.org/standards/semanticweb/">W3C (SW Section)k</a></td>
+            <td><a href="https://www.w3.org/standards/semanticweb/">TM Community</a></td>
             <td>Role based modeling</td>
             <td><a href="https://en.wikipedia.org/wiki/Topic_map">Wikipedia (EN)</a></td>
         </tr>
