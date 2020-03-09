@@ -46,7 +46,7 @@ Main Concepts
             <td>N/A</td>
             <td>Type</td>
             <td>A set of particular things.</td>
-            <td>Persons</td>
+            <td>"Persons", "Organizations", ...</td>
             <td>A #2 is (also) a #0</td>
         </tr>
     </tbody>
