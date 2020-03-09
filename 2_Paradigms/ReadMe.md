@@ -25,9 +25,30 @@ Tableau :
         <tr>
             <td>KL Meta-Model</td>
             <td>Mind Mapping</td>
-            <td><a href="http://keeplink.com//">KeepLink</a></td>
+            <td><a href="http://keeplink.com/">KeepLink</a></td>
             <td>-</td>
             <td><a href="https://github.com/iPlumb3r/KeepLink/blob/master/1_Semantic/ReadMe_FR.md">Non Offical GitHub (FR)</a></td>
+        </tr>
+        <tr>
+            <td>RDF(S)-OWL</td>
+            <td>Semantic Web</td>
+            <td><a href="https://www.w3.org/standards/semanticweb/">W3C (SW Section)k</a></td>
+            <td>-</td>
+            <td><a href="https://www.w3.org/RDF/">RDF</a>, <a href="https://www.w3.org/TR/rdf-schema/">RDFS</a> & <a href="https://www.w3.org/OWL/">OWL</a></td>
+        </tr>
+        <tr>
+            <td>Topic Maps</td>
+            <td>Semantic Web</td>
+            <td><a href="https://www.w3.org/standards/semanticweb/">W3C (SW Section)k</a></td>
+            <td>Role based modeling</td>
+            <td><a href="https://en.wikipedia.org/wiki/Topic_map">Wikipedia (EN)</a></td>
+        </tr>
+        <tr>
+            <td>Grakn</td>
+            <td>Semantic Web</td>
+            <td><a href="https://grakn.ai/">Grakn Labs</a></td>
+            <td>Role based modeling</td>
+            <td><a href="https://blog.grakn.ai/get-started-with-grakn-ai-72bb210f915c">Getting Started Web Page</a></td>
         </tr>
     </tbody>
     </tbody>
