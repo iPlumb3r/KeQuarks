@@ -7,7 +7,7 @@ In order to avoid any debate about terminology :
 * Concepts are here primary identified by a non significative IDs (A prefered label is just provided as an example) ...
 * ... then, those Concepts are "mapped" with Terms used by each paradigm
 
-Main Concepts
+Key Concepts
 -
 <table>
     <thead>
