@@ -134,7 +134,7 @@ Others (Non Mandatory) Concepts
             <td></td>
         </tr>
         <tr>
-            <td>#9</td>
+            <td>#10</td>
             <td>Tuple Type Property</td>
             <td>Property which characterize all tuple of a given Tuple Type</td>
             <td>"Persons" => "Organizations" . "hiring date"</td>
