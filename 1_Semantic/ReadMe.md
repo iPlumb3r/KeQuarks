@@ -60,7 +60,7 @@ Key Concepts
         </tr>
         <tr>
             <td>#4</td>
-            <td>...ved</td>
+            <td>...</td>
             <td>#1 #2(s)</td>
             <td>#2 of #1</td>
             <td>Tuple Type</td>
@@ -78,6 +78,9 @@ Key Concepts
         </tr>
     </tbody>
 </table>
+
+__Imporant Note__ :
+* As a #1 is also a #0, the (Meta-)Model automatically provide a reification mechanism !
 
 Mapping with other paradigms
 -
