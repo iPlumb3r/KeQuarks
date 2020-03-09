@@ -129,14 +129,14 @@ Others (Non Mandatory) Concepts
         <tr>
             <td>#9</td>
             <td>Topic Type Property</td>
-            <td>Property which characterize all topic of a given Topic Type</td>
+            <td>Property which characterize all topics of a Topic Type</td>
             <td>"Persons" . "birth date"</td>
             <td></td>
         </tr>
         <tr>
             <td>#10</td>
             <td>Tuple Type Property</td>
-            <td>Property which characterize all tuple of a given Tuple Type</td>
+            <td>Property which characterize all tuples of a Tuple Type</td>
             <td>"Persons" => "Organizations" . "hiring date"</td>
             <td></td>
         </tr>
