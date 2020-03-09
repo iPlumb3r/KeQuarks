@@ -117,7 +117,7 @@ Others (Non Mandatory) Concepts
             <td>Type Property</td>
             <td>A characteristic of a topic</td>
             <td>"Tim Berner Lee" . "birth date" = "1955 June 8"</td>
-            <td>#</td>
+            <td></td>
         </tr>
         <tr>
             <td>#8</td>
