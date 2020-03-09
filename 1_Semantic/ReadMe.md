@@ -13,8 +13,6 @@ Main Concepts
     <thead>
         <tr>
             <th>Concept ID</th>
-            <th>Path</th>
-            <th>Path</th>
             <th>Prefered Label</th>
             <th>Description</th>
             <th>Example(s)</th>
@@ -24,8 +22,6 @@ Main Concepts
     <tbody>
         <tr>
             <td>#0</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>topic</td>
             <td>A particular thing</td>
             <td>"Tim Berner Lee", "W3C", ...</td>
@@ -33,8 +29,6 @@ Main Concepts
         </tr>
         <tr>
             <td>#1</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>tuple</td>
             <td>A link between 2 (or potentially more ?) particular things.</td>
             <td>The link between "Tim Berner Lee" & "W3C" (untyped, but oriented)</td>
@@ -42,8 +36,6 @@ Main Concepts
         </tr>
         <tr>
             <td>#2</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>Type</td>
             <td>A set of particular things.</td>
             <td>"Persons", "Organizations", ...</td>
