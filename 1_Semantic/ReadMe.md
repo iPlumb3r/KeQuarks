@@ -3,23 +3,37 @@ Semantic
 
 To Be Completed ...
 
+In order to avoid any debate about terminology : 
+* Concepts are here primary identifier by non significative IDs
+* Terms of each paradigm are mapped to Concepts
+
 <table>
     <thead>
         <tr>
-            <th>KL Concepts / Others Paradigms</th>
-            <th>item</th>
-            <th>Link</th>
-            <th>Type</th>
-            <th>Link Type (Type "applied to "Link")</th>
-            <th>Item</th>
-            <th>Property</th>
+            <th>Concepts / Paradigms</th>
+            <th>#0</th>
+            <th>#1</th>
+            <th>#2</th>
+            <th>#3 = #2 of #0 = #0 #2(s)</th>
+            <th>#4 = #2 of #1 = #1 #2(s)</th>
+            <th>#5 = #2 of all #2(s)</th>
             <th>Comment</th>    
         </tr>
     </thead>
     <tbody>
+         <tr>
+            <td>KeQuarks (Knowledge Engineering)</td>
+            <td>topic</td>
+            <td>tuple (is - also - a topic)</td>
+            <td>type (is -also - a topic)</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Has also : changes happenning to things</td>
+        </tr>
         <tr>
             <td>BORO (Data Modeling)</td>
-            <td>Topic (a particular thing)</td>
+            <td>Element (a particular thing)</td>
             <td>Tuple (a relashionship between thing)</td>
             <td>Type (a general type of things)</td>
             <td>N/A</td>
