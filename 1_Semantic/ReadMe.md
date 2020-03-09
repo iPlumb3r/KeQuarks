@@ -38,7 +38,7 @@ Main Concepts
             <td>tuple</td>
             <td>A link between 2 (or potentially more ?) particular things.</td>
             <td>A - untyped, but oriented - link between "Tim Berner Lee" & "W3C"</td>
-            <td> A #1 is - aslo - a #0</td>
+            <td> A #1 is - also - a #0</td>
         </tr>
         <tr>
             <td>#2</td>
@@ -47,7 +47,7 @@ Main Concepts
             <td>Type</td>
             <td>A set of particular things.</td>
             <td>Persons</td>
-            <td>A #2 is - aslo - a #0</td>
+            <td>A #2 is - also - a #0</td>
         </tr>
     </tbody>
 </table>
