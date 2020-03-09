@@ -37,8 +37,8 @@ Key Concepts
             <td>N/A</td>
             <td>N/A</td>
             <td>tuple</td>
-            <td>A link between 2 (or potentially more ?) particular things. A #1 is - aslo - a #0</td>
-            <td>Start with a "lowercase"</td>
+            <td>A link between 2 (or potentially more ?) particular things.</td>
+            <td> A #1 is - aslo - a #0</td>
         </tr>
         <tr>
             <td>#2</td>
@@ -46,8 +46,8 @@ Key Concepts
             <td>N/A</td>
             <td>N/A</td>
             <td>Type</td>
-            <td>A set of particular things. A #2 is - aslo - a #0</td>
-            <td>Start with a "uppercase"</td>
+            <td>A set of particular things.</td>
+            <td>A #2 is - aslo - a #0</td>
         </tr>
         <tr>
             <td>#3</td>
@@ -56,7 +56,7 @@ Key Concepts
             <td>#2 of #0</td>
             <td>Topic Type</td>
             <td>As - given - set of "similar" topic(s)</td>
-            <td>Start with a "uppercase"</td>
+            <td></td>
         </tr>
         <tr>
             <td>#4</td>
@@ -65,16 +65,16 @@ Key Concepts
             <td>#2 of #1</td>
             <td>Tuple Type</td>
             <td>As - given - set of "similar" tuple(s)</td>
-            <td>Start with a "uppercase"</td>
+            <td></td>
         </tr>
         <tr>
             <td>#5</td>
             <td>...</td>
             <td>#2 #2(s)</td>
             <td>#2 of all #2(s)</td>
-            <td>Things</td>
-            <td>The set of all sets</td>
-            <td>End with a "s"</td>
+            <td>Thing</td>
+            <td>The set of all topics</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
