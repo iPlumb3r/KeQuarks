@@ -148,6 +148,6 @@ Concepts x Paradigm Mapping
 -
 Working space = <a href="https://docs.google.com/spreadsheets/d/1LW_tBNss0VV0i_mfG56zXhdwFJKpwTKhpGyieA7ZxJo/">This SpreadSheet on Google Drive</a>
 
-__Remark__ : GitHub not useful for "big" table. See this click-able table :
+__Remark__ : GitHub not useful for "big" table. See this clickable table :
 
 ![CxP](https://github.com/iPlumb3r/KnowledgeEngineeringParticles/blob/master/images/Concepts_x_Paradigms_2020-03-09.png)
