@@ -57,7 +57,7 @@ __Important Note 1__ :
 
 __Important Note 2__ :
 * If #1 (tuple) arity is = 2 the it better to have a "orientation" (e.g. starts from / ends to)
-* If #1 (tuple) arity is > 2 there is a need for #Role concept
+* If #1 (tuple) arity is > 2 there is a need for #RoleType (& #Role) concept(s)
 
 Key Concepts
 -
