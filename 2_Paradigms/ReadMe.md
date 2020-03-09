@@ -2,8 +2,6 @@ Paradigms
 ==
 
 A list of interesting paradigms : 
-
-Tableau :
 <table>
     <thead>
         <tr>
