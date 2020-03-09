@@ -83,7 +83,7 @@ Derived (Useful) Concepts
         </tr>
         <tr>
             <td>#5</td>
-            <td>The set of all #2(s)</td>
+            <td>The set of all #0(s)</td>
             <td>Things</td>
             <td>The set of all topics</td>
             <td></td>
