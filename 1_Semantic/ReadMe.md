@@ -69,6 +69,7 @@ Derived Concepts
             <th>Path</th>
             <th>Prefered Label</th>
             <th>Description</th>
+            <th>Example</th>
             <th>Comment</th>         
         </tr>
     </thead>
@@ -77,17 +78,19 @@ Derived Concepts
             <td>#3</td>
             <td>#0 #2(s)</td>
             <td>#2 of #0</td>
-            <td>Topic Type</td>
+            <td>A type of topics (Topic Type</td>
             <td>As - given - set of "similar" topic(s)</td>
             <td></td>
+            <td>#3 is a #2</td>
         </tr>
         <tr>
             <td>#4</td>
             <td>#1 #2(s)</td>
             <td>#2 of #1</td>
-            <td>Tuple Type</td>
+            <td>A type of tuples (Tuple Type)</td>
             <td>As - given - set of "similar" tuple(s)</td>
             <td></td>
+            <td>#4 is a #2</td>
         </tr>
         <tr>
             <td>#5</td>
@@ -95,6 +98,7 @@ Derived Concepts
             <td>#2 of all #2(s)</td>
             <td>Things</td>
             <td>The set of all topics</td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
