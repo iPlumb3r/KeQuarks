@@ -1,7 +1,7 @@
 Semantic
 ==
 
-To Be Completed ...
+This page is about useful Concepts for building (Meta-)Model(s)
 
 In order to avoid any debate about terminology : 
 * Concepts are here primary identified by a non significative IDs (A prefered label is just provided as an example) ...
