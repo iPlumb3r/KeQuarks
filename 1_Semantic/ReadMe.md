@@ -13,7 +13,6 @@ Main Concepts
     <thead>
         <tr>
             <th>Concept ID</th>
-            <th>1st or ... ?</th>
             <th>Path</th>
             <th>Path</th>
             <th>Prefered Label</th>
@@ -24,7 +23,6 @@ Main Concepts
     <tbody>
         <tr>
             <td>#0</td>
-            <td>1st</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>topic</td>
@@ -33,7 +31,6 @@ Main Concepts
         </tr>
         <tr>
             <td>#1</td>
-            <td>1st</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>tuple</td>
@@ -42,7 +39,6 @@ Main Concepts
         </tr>
         <tr>
             <td>#2</td>
-            <td>1st</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>Type</td>
@@ -65,7 +61,6 @@ Key Concepts
     <thead>
         <tr>
             <th>Concept ID</th>
-            <th>1st or ... ?</th>
             <th>Path</th>
             <th>Path</th>
             <th>Prefered Label</th>
@@ -76,7 +71,6 @@ Key Concepts
     <tbody>
         <tr>
             <td>#3</td>
-            <td>...</td>
             <td>#0 #2(s)</td>
             <td>#2 of #0</td>
             <td>Topic Type</td>
@@ -85,7 +79,6 @@ Key Concepts
         </tr>
         <tr>
             <td>#4</td>
-            <td>...</td>
             <td>#1 #2(s)</td>
             <td>#2 of #1</td>
             <td>Tuple Type</td>
@@ -94,7 +87,6 @@ Key Concepts
         </tr>
         <tr>
             <td>#5</td>
-            <td>...</td>
             <td>#2 #2(s)</td>
             <td>#2 of all #2(s)</td>
             <td>Things</td>
