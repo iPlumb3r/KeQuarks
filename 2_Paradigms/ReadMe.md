@@ -39,7 +39,7 @@ Tableau :
         <tr>
             <td>Topic Maps</td>
             <td>Semantic Web</td>
-            <td><a href="https://www.w3.org/standards/semanticweb/">TM Community</a></td>
+            <td>TM Community</td>
             <td>Role based modeling</td>
             <td><a href="https://en.wikipedia.org/wiki/Topic_map">Wikipedia (EN)</a></td>
         </tr>
