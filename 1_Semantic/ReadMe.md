@@ -98,8 +98,6 @@ Other (Non Mandatory) Concepts
     <thead>
         <tr>
             <th>Concept ID</th>
-            <th>Path</th>
-            <th>Path</th>
             <th>Prefered Label</th>
             <th>Description</th>
             <th>Example</th>
@@ -109,28 +107,36 @@ Other (Non Mandatory) Concepts
     <tbody>
         <tr>
             <td>#6</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>Property</td>
-            <td>As - given - set of "similar" topic(s)</td>
-            <td></td>
+            <td>A characteritic of a thing</td>
+            <td>"Tim Berner Lee" . "birth date" = "1955 June 8"</td>
             <td>#6 is a #1 towards specific #2</td>
         </tr>
         <tr>
-            <td>#4</td>
-            <td>#1 #2(s)</td>
-            <td>#2 of #1</td>
-            <td>A type of tuples (Tuple Type)</td>
-            <td>As - given - set of "similar" tuple(s)</td>
-            <td></td>
-            <td>#4 is a #2</td>
+            <td>#7</td>
+            <td>Type Property</td>
+            <td>A characteristic of a topic</td>
+            <td>"Persons" . "birth date"</td>
+            <td>#</td>
         </tr>
         <tr>
-            <td>#5</td>
-            <td>#2 #2(s)</td>
-            <td>#2 of all #2(s)</td>
-            <td>Things</td>
-            <td>The set of all topics</td>
+            <td>#8</td>
+            <td>Tuple Property</td>
+            <td>A characteristic of a tuple</td>
+            <td>"Tim Berner Lee" & "W3C" . "hiring date" = "2009"</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#9</td>
+            <td>Topic Type Property</td>
+            <td>Property which characterize all topic of a given Topic Type</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#9</td>
+            <td>Tuple Type Property</td>
+            <td>Property which characterize all tuple of a given Tuple Type</td>
             <td></td>
             <td></td>
         </tr>
