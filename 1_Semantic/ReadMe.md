@@ -7,6 +7,45 @@ In order to avoid any debate about terminology :
 * Concepts are here primary identifier by non significative IDs
 * Terms of each paradigm are mapped to Concepts
 
+Key Concepts
+-
+<table>
+    <thead>
+        <tr>
+            <th>Concept ID</th>
+            <th>1st ou Derived ?</th>
+            <th>Path</th>
+            <th>Path</th>
+            <th>Prefered Label</th>
+            <th>Description</th>
+            <th>Comment</th>         
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>#0</td>
+            <td>1st</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>topic</td>
+            <td>a particular thing</td>
+            <td>start with a "lowercase"</td>
+        </tr>
+        <tr>
+            <td>#0</td>
+            <td>1st</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>tuple</td>
+            <td>a link between (2 or potentially more) particular things</td>
+            <td>start with a "lowercase"</td>
+        </tr>
+    </tbody>
+</table>
+
+Mapping with other paradigms
+-
+
 <table>
     <thead>
         <tr>
