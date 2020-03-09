@@ -70,8 +70,8 @@ Key Concepts
         <tr>
             <td>#5</td>
             <td>Derived</td>
-            <td></td>
-            <td></td>
+            <td>#2 #2(s)</td>
+            <td>#2 of all #2(s)</td>
             <td>Things</td>
             <td>>The set of all sets</td>
             <td>End with a "s"</td>
