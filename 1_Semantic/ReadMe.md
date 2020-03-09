@@ -38,7 +38,7 @@ Key Concepts
             <td>#2</td>
             <td>Type</td>
             <td>A set of particular things.</td>
-            <td>"Persons", "Organizations", ...</td>
+            <td>"Persons", "Organizations", "affiates to", "has part", ...</td>
             <td>A #2 is (also) a #0</td>
         </tr>
     </tbody>
@@ -70,7 +70,7 @@ Derived (Useful) Concepts
             <td>A #2 of #0</td>
             <td>Topic Type</td>
             <td>A type of topics = A - given - set of "similar" topic(s)</td>
-            <td></td>
+            <td>"Persons", "Organizations", ...</td>
             <td>#3 is a #2</td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ Derived (Useful) Concepts
             <td>A #2 of #1</td>
             <td>Tuple Type</td>
             <td>A type of tuples = A - given - set of "similar" tuple(s)</td>
-            <td></td>
+            <td>"affiates to", "has part", ...</td>
             <td>#4 is a #2</td>
         </tr>
         <tr>
