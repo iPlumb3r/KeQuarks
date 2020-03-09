@@ -54,14 +54,14 @@ Tableau :
             <td>O-O Language(s)</td>
             <td>Computer Science</td>
             <td>N/A</td>
-            <td></td>
+            <td>-</td>
             <td><a href="https://en.wikipedia.org/wiki/Object-oriented_programming">Wikipedia (EN)</a></td>
         </tr>
         <tr>
             <td>Set Theory</td>
             <td>Mathematics</td>
             <td>N/A</td>
-            <td></td>
+            <td>-</td>
             <td><a href="https://en.wikipedia.org/wiki/Set_theory">Wikipedia (EN)</a></td>
         </tr>
     </tbody>
