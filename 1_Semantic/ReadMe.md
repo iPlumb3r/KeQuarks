@@ -72,7 +72,7 @@ Key Concepts
             <td>...</td>
             <td>#2 #2(s)</td>
             <td>#2 of all #2(s)</td>
-            <td>Thing</td>
+            <td>Things</td>
             <td>The set of all topics</td>
             <td></td>
         </tr>
@@ -92,9 +92,9 @@ Mapping with other paradigms
             <th>#0</th>
             <th>#1</th>
             <th>#2</th>
-            <th>#3 = #2 of #0 = #0 #2(s)</th>
-            <th>#4 = #2 of #1 = #1 #2(s)</th>
-            <th>#5 = #2 of all #2(s)</th>
+            <th>#3</th>
+            <th>#4</th>
+            <th>#5</th>
             <th>Comment</th>    
         </tr>
     </thead>
@@ -102,11 +102,11 @@ Mapping with other paradigms
          <tr>
             <td>KeQuarks (Knowledge Engineering)</td>
             <td>topic</td>
-            <td>tuple (is - also - a topic)</td>
-            <td>type (is -also - a topic)</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>tuple</td>
+            <td>Type</td>
+            <td>Topic Type</td>
+            <td>Tuple TypeA</td>
+            <td>Things</td>
             <td>Has also : changes happenning to things</td>
         </tr>
         <tr>
@@ -124,10 +124,10 @@ Mapping with other paradigms
             <td>item</td>
             <td>link</td>
             <td>type</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Has also : changes happenning to things</td>
+            <td>Item Type</td>
+            <td>Link Type</td>
+            <td>Items</td>
+            <td>Each link is oriented ("start from" item - "end to" item</td>
         </tr>
         <tr>
             <td>RDF/RDFS (Semantic Web)</td>
