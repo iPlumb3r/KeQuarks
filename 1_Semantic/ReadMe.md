@@ -18,20 +18,20 @@ To Be Completed ...
     </thead>
     <tbody>
         <tr>
-            <td>Set Theory (Math)</td>
-            <td>Element</td>
-            <td>N/A</td>
-            <td>Set</td>
-            <td>N/A</td>
-            <td>Set of all Sets</td>
-            <td>N/A</td>
-            <td>-</td>
-        </tr>
-        <tr>
             <td>BORO (Data Modeling)</td>
             <td>Topic (a particular thing)</td>
             <td>Tuple (a relashionship between thing)</td>
             <td>Type (a general type of things)</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Has also : changes happenning to things</td>
+        </tr>
+        <tr>
+            <td>KL Meta-Model (Mind Mapping)</td>
+            <td>item</td>
+            <td>link</td>
+            <td>type</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -76,6 +76,16 @@ To Be Completed ...
             <td>N/A</td>
             <td>Data Attribute</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>Set Theory (Math)</td>
+            <td>Element</td>
+            <td>N/A</td>
+            <td>Set</td>
+            <td>N/A</td>
+            <td>Set of all Sets</td>
+            <td>N/A</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
