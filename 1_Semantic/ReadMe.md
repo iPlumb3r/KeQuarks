@@ -4,8 +4,8 @@ Semantic
 To Be Completed ...
 
 In order to avoid any debate about terminology : 
-* Concepts are here primary identifier by non significative IDs
-* Terms of each paradigm are mapped to Concepts
+* Concepts are here primary identified by a non significative IDs (A prefered label is just provided as an example) ...
+* ... then, those Concepts are "mapped" with Terms used by each paradigm
 
 Key Concepts
 -
