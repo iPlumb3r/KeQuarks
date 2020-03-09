@@ -144,7 +144,7 @@ Others (Non Mandatory) Concepts
     </tbody>
 </table>
 
-Concepts x Paradigm Mapping 
+Concepts x Paradigms Mapping 
 -
 Working space = <a href="https://docs.google.com/spreadsheets/d/1LW_tBNss0VV0i_mfG56zXhdwFJKpwTKhpGyieA7ZxJo/">This SpreadSheet on Google Drive</a>
 
