@@ -28,16 +28,25 @@ Key Concepts
             <td>N/A</td>
             <td>N/A</td>
             <td>topic</td>
-            <td>a particular thing</td>
-            <td>start with a "lowercase"</td>
+            <td>A particular thing</td>
+            <td>Start with a "lowercase"</td>
         </tr>
         <tr>
-            <td>#0</td>
+            <td>#2</td>
             <td>1st</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>tuple</td>
-            <td>a link between (2 or potentially more) particular things</td>
+            <td>A link between (2 or potentially more) particular things. A #1 is - aslo - a #0</td>
+            <td>Start with a "lowercase"</td>
+        </tr>
+        <tr>
+            <td>#1</td>
+            <td>1st</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>type</td>
+            <td>A set of particular things. A #2 is - aslo - a #0</td>
             <td>start with a "lowercase"</td>
         </tr>
     </tbody>
