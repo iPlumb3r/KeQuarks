@@ -22,5 +22,13 @@ Tableau :
             <td>-</td>
             <td><a href="https://en.wikipedia.org/wiki/BORO/">Wikipedia (EN)</a></td>
         </tr>
+        <tr>
+            <td>KL Meta-Model</td>
+            <td>Mind Mapping</td>
+            <td><a href="http://keeplink.com//">KeepLink</a></td>
+            <td>-</td>
+            <td><a href="https://github.com/iPlumb3r/KeepLink/blob/master/1_Semantic/ReadMe_FR.md">Non Offical GitHub (FR)</a></td>
+        </tr>
+    </tbody>
     </tbody>
 </table>
