@@ -16,14 +16,14 @@ Tableau :
     </thead>
     <tbody>
         <tr>
-            <td>BORO</td>
+            <td><a href="https://github.com/iPlumb3r/KnowledgeEngineeringParticles/blob/master/2_Paradigms/BORO.md">BORO</a></td>
             <td>Data Modeling</td>
             <td><a href="http://www.borosolutions.net/">Boro Solution</a></td>
             <td>-</td>
             <td><a href="https://en.wikipedia.org/wiki/BORO/">Wikipedia (EN)</a></td>
         </tr>
         <tr>
-            <td>KL Meta-Model</td>
+            <td><a href="https://github.com/iPlumb3r/KnowledgeEngineeringParticles/blob/master/2_Paradigms/KL_M-M.md">KL Meta-Model</a></td>
             <td>Mind Mapping</td>
             <td><a href="http://keeplink.com/">KeepLink</a></td>
             <td>-</td>
