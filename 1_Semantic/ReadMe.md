@@ -37,7 +37,7 @@ Key Concepts
             <td>N/A</td>
             <td>N/A</td>
             <td>tuple</td>
-            <td>A link between (2 or potentially more) particular things. A #1 is - aslo - a #0</td>
+            <td>A link between 2 (or potentially more ?) particular things. A #1 is - aslo - a #0</td>
             <td>Start with a "lowercase"</td>
         </tr>
         <tr>
