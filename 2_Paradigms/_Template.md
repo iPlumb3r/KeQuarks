@@ -26,7 +26,7 @@ ID Card
         </tr>
         <tr>
             <td>About Page</td>
-            <td><td>
+            <td></td>
         </tr>
           <tr>
             <td>Resource</td>
