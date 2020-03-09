@@ -13,7 +13,7 @@ Key Concepts
     <thead>
         <tr>
             <th>Concept ID</th>
-            <th>1st ou Derived ?</th>
+            <th>1st or ... ?</th>
             <th>Path</th>
             <th>Path</th>
             <th>Prefered Label</th>
@@ -51,7 +51,7 @@ Key Concepts
         </tr>
         <tr>
             <td>#3</td>
-            <td>Derived</td>
+            <td>...</td>
             <td>#0 #2(s)</td>
             <td>#2 of #0</td>
             <td>Topic Type</td>
@@ -60,7 +60,7 @@ Key Concepts
         </tr>
         <tr>
             <td>#4</td>
-            <td>Derived</td>
+            <td>...ved</td>
             <td>#1 #2(s)</td>
             <td>#2 of #1</td>
             <td>Tuple Type</td>
@@ -69,7 +69,7 @@ Key Concepts
         </tr>
         <tr>
             <td>#5</td>
-            <td>Derived</td>
+            <td>...</td>
             <td>#2 #2(s)</td>
             <td>#2 of all #2(s)</td>
             <td>Things</td>
