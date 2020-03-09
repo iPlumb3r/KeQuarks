@@ -107,13 +107,13 @@ Mapping with other paradigms
             <td>Topic Type</td>
             <td>Tuple TypeA</td>
             <td>Things</td>
-            <td>Has also : changes happenning to things</td>
+            <td></td>
         </tr>
         <tr>
             <td>BORO (Data Modeling)</td>
-            <td>Element (a particular thing)</td>
-            <td>Tuple (a relashionship between thing)</td>
-            <td>Type (a general type of things)</td>
+            <td>Element</td>
+            <td>Tuple</td>
+            <td>Type</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -130,24 +130,24 @@ Mapping with other paradigms
             <td>Each link is oriented ("start from" item - "end to" item</td>
         </tr>
         <tr>
-            <td>RDF/RDFS (Semantic Web)</td>
+            <td>RDF(S)-OWL (Semantic Web)</td>
             <td>Resource (or Individual)</td>
             <td>Predicat (Between a Resource "As a Subject" & Resource "As an Object")</td>
             <td>Class</td>
             <td>Object Property</td>
             <td>Thing</td>
-            <td>Datatype Property</td>    
-            <td>-</td>   
+            <td>Thing</td>    
+            <td>M has also : Datatype Property</td>   
         </tr>
         <tr>
             <td>Topic Maps (Semantic Web)</td>
             <td>Topic</td>
             <td>Association</td>
+            <td>Type</td>
             <td>Topic Type</td>
             <td>Association Type</td>
-            <td>N/A</td>
-            <td>Occurence</td>
-            <td>TM has also Role</td>   
+            <td>???</td>
+            <td>TM has also : Role & Occurence</td>   
         </tr>
         <tr>
             <td>Grakn (Graph Database)</td>
