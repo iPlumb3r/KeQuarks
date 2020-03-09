@@ -67,7 +67,7 @@ Derived (Useful) Concepts
     <tbody>
         <tr>
             <td>#3</td>
-            <td>#2 of some #0</td>
+            <td>A #2 of #0</td>
             <td>A type of topics (Topic Type)</td>
             <td>As - given - set of "similar" topic(s)</td>
             <td></td>
@@ -75,7 +75,7 @@ Derived (Useful) Concepts
         </tr>
         <tr>
             <td>#4</td>
-            <td>#2 of some #1</td>
+            <td>A #2 of #1</td>
             <td>A type of tuples (Tuple Type)</td>
             <td>As - given - set of "similar" tuple(s)</td>
             <td></td>
@@ -83,7 +83,7 @@ Derived (Useful) Concepts
         </tr>
         <tr>
             <td>#5</td>
-            <td>Set of all #2(s)</td>
+            <td>The set of all #2(s)</td>
             <td>Things</td>
             <td>The set of all topics</td>
             <td></td>
