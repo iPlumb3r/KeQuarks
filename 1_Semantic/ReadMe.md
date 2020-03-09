@@ -68,16 +68,16 @@ Derived (Useful) Concepts
         <tr>
             <td>#3</td>
             <td>A #2 of #0</td>
-            <td>A type of topics (Topic Type)</td>
-            <td>As - given - set of "similar" topic(s)</td>
+            <td>Topic Type</td>
+            <td>A type of topics = A - given - set of "similar" topic(s)</td>
             <td></td>
             <td>#3 is a #2</td>
         </tr>
         <tr>
             <td>#4</td>
             <td>A #2 of #1</td>
-            <td>A type of tuples (Tuple Type)</td>
-            <td>As - given - set of "similar" tuple(s)</td>
+            <td>Tuple Type</td>
+            <td>A type of tuples = A - given - set of "similar" tuple(s)</td>
             <td></td>
             <td>#4 is a #2</td>
         </tr>
