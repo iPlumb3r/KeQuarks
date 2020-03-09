@@ -1,8 +1,8 @@
 Semantic
 ==
 
-This page is trying a "best of breed" approach for selecting candidate concept patterns for the KeQuarks initiative ...
-... in order to define a powerful (Meta-)Model
+This page is trying a "best of breed" approach for selecting candidate concept patterns for the KEP initiative ...  
+... in order to define a powerful KeQuarks (Meta-)Model
 
 In order to avoid any debate about terminology : 
 * Concepts are here primary identified by a non significative IDs (A prefered label is just provided as an example) ...
