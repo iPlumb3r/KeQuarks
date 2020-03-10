@@ -33,8 +33,13 @@ The KeQuark (Meta-)Model is dedicated to be used in for those intitatives :
             <td></td>
         </tr>
          <tr>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMappingModel">E2M</a></td>
-            <td>Ecosystem Mapping Model</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">E2M</a></td>
+            <td>E2M (Ecosystem Mapping Model) : A Model for answering key questions about any Ecosystem : WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">EBR</a></td>
+            <td>"Entagled Bootstrap" Repositori(es) is all about the intersection between "semantic technologies & "distributed web" ecosystems"</td>
             <td></td>
         </tr>
     </tbody>
