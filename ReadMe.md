@@ -24,22 +24,22 @@ The KeQuark (Meta-)Model is dedicated to be used in for those intitatives :
     <tbody>
         <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a></td>
-            <td>Fully Distributed Conceptionary Manager</td>
-            <td>Collaborative identification and definfion of canditate concepts for designing ontologies</td>
+            <td>A Fully Distributed Conceptionary Manager</td>
+            <td>Collaborative identification and definition of canditate concepts for designing ontologies</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a></td>
-            <td>Representation & Visualization Templates for Semantically Organized Information</td>
+            <td>Methodology and Templates for Representating & Visualizing Semantically Organized Information</td>
             <td></td>
         </tr>
          <tr>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">E2M</a></td>
-            <td>E2M (Ecosystem Mapping Model) : A Model for answering key questions about any Ecosystem : WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">E2M (Ecosystem Mapping Model)</a></td>
+            <td>A Model for answering key questions about any Ecosystem : WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?</td>
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">EBR</a></td>
-            <td>"Entagled Bootstrap" Repositori(es) is all about the intersection between "semantic technologies & "distributed web" ecosystems"</td>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">EBR ("Entagled Bootstrap" Repository)</a></td>
+            <td>E2M appylied to the area at the intersection between "semantic technologies & "distributed web" ecosystems</td>
             <td></td>
         </tr>
     </tbody>
