@@ -6,8 +6,7 @@ __KeQuarks__ is the develiverable of the _"holy grail" quest_ for __Knowledge En
 
 The goal of this initiative is to identify and define __relevant__ Concepts & (Meta)-Models for designing __poweful__ Model(s).
 * <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/1_Semantic">Concept</a> identification is done by selecting them in already existing relevant <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/2_Paradigms">paradigms</a>
-* Concept definition is done via an onto-terminology approach, where concepts & terms which denote them are "decoupled" (in order to avoid - or at least - limit any terminological debate). This kind of approach allows oth a common consensus about concepts, but allows alos everybody to used its prefered terms. 
-
+* Concept definition is done via an onto-terminology approach, where concepts & terms which denote them are "decoupled" (in order to avoid - or at least limit - any terminological debate). This kind of approach allows both a common consensus about concepts, but allows alos everybody to used its prefered terms. 
 
 Where Used
 -
