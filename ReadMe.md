@@ -48,8 +48,8 @@ The __KeQuarks__ (Meta-)Model is dedicated to be used in for those intitatives :
         </tr>
         <tr>
             <td>Distributed Semantic-Driven Business Application(s)</a></td>
-            <td>KeQuarks could aslo be used for designing PLM, CRM, ERP, ...</td>
-            <td>... and many others applications</td>
+            <td>e.g. dSem-PLM, dSem-CRM, dSem-ERP, ...</td>
+            <td>KeQuarks could also be used for many others applications ...</td>
         </tr>
     </tbody>
 </table>
