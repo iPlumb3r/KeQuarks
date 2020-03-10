@@ -45,6 +45,9 @@ Key Concepts
     </tbody>
 </table>
 
+![Icon](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Icon%40KeQuarks.png)
+
+
 __Important Note 1__ :
 * As a #1 is also a #0, the (Meta-)Model automatically provide a reification mechanism !
 
