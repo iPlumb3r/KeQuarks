@@ -42,9 +42,14 @@ The __KeQuarks__ (Meta-)Model is dedicated to be used in for those intitatives :
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">EBR ("Entagled Bootstrap" Repository)</a></td>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">EBR ("Entangled Bootstrap" Repository)</a></td>
             <td>E2M appylied to the area at the intersection between "semantic technologies & "distributed web" ecosystems</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>Distributed Semantic-Driven Business Application(s)</a></td>
+            <td>KeQuarks could aslo be used for designing PLM, CRM, ERP, ...</td>
+            <td>... and many others applications</td>
         </tr>
     </tbody>
 </table>
