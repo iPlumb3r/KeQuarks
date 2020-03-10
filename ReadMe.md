@@ -2,7 +2,7 @@
 KeQuarks
 ==
 
-__KeQuarks__ is the develiverable of the _"holy grail" quest_ for Knowledge Engineering "Elementary Particles" ;-)
+__KeQuarks__ is the develiverable of the _"holy grail" quest_ for __Knowledge Engineering "Elementary Particles"__ ;-)
 
 The goal of this initiative is to identify and define __relevant__ Concept(s) & (Meta)-Models for designing __poweful__ Models.
 * <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/1_Semantic">Concepts</a> identification is be done by selection in already existing <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/2_Paradigms">paradigms</a>
