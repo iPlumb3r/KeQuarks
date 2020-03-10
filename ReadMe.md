@@ -1,9 +1,9 @@
 
-Knowledge Engineering Particles (KEP) Initiative
+KeQuarks
 ==
 
-The goal of this initiative is to define (and/or select) __relevant__ Concept(s) & (Meta)-Models for defining __poweful__ Models.
+KeQuarks is the develiverable of the quest related to "Elementary Particles" for Knowledge Engineering.
 
-Selected concepts are named here "KeQuarks"
+The goal of this initiative is to identify (and/or select) and define __relevant__ Concept(s) & (Meta)-Models for defining __poweful__ Models.
 
 To Be Completed ...
