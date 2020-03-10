@@ -22,6 +22,11 @@ The __KeQuarks__ (Meta-)Model is dedicated to be used in for those intitatives :
     </thead>
     <tbody>
         <tr>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks">KeQuark</a></td>
+            <td>A (Meta-)Model for designing Model(s)</td>
+            <td>Yes, KeQuarks shoudld be "self-desciptive" : Dogfooding At Works !</td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a></td>
             <td>A Fully Distributed Conceptionary Manager</td>
             <td>Collaborative identification and definition of canditate concepts for designing ontologies</td>
