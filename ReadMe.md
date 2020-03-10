@@ -38,13 +38,13 @@ The __KeQuarks__ (Meta-)Model is dedicated to be used in for those intitatives :
         </tr>
          <tr>
             <td><a href="https://github.com/iPlumb3r/EcosystemMapping">E2M (Ecosystem Mapping Model)</a></td>
-            <td>A Model for answering key questions about any Ecosystem : WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?</td>
-            <td></td>
+            <td>Methodology and tools (OWL-Compliant Toos, <a href="https://www.topincs.com/">Topincs</a> & <a href="http://keeplink.com/">KeepLink</a>) for building a Semantic Cartography of any ecosytem>/td>
+            <td>In order to answer key questions about any Ecosystem : WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">EBR ("Entangled Bootstrap" Repository)</a></td>
-            <td>E2M appylied to the area at the intersection between "semantic technologies & "distributed web" ecosystems</td>
-            <td></td>
+            <td>E2M applied to "semantic technologies & "distributed web" ecosystems</td>
+            <td>By targeting more precisely at the intersection between these 2 ecosystems</td>
         </tr>
         <tr>
             <td>Distributed Semantic-Driven Business Application(s)</a></td>
