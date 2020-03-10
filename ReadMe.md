@@ -30,7 +30,7 @@ The KeQuark (Meta-)Model is dedicated to be used in for those intitatives :
         <tr>
             <td><a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a></td>
             <td>Methodology and Templates for Representating & Visualizing Semantically Organized Information</td>
-            <td></td>
+            <td>Because representing and visualizing informations about any business domain is - itself - a business domain</td>
         </tr>
          <tr>
             <td><a href="https://github.com/iPlumb3r/EcosystemMapping">E2M (Ecosystem Mapping Model)</a></td>
