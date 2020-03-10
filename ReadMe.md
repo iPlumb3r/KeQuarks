@@ -2,7 +2,7 @@
 KeQuarks
 ==
 
-KeQuarks is the _develiverable_ of the quest related to "Elementary Particles" for Knowledge Engineering.
+__KeQuarks__ is the _develiverable_ of the quest related to "Elementary Particles" for Knowledge Engineering.
 
 The goal of this initiative is to identify (and/or select) and define __relevant__ Concept(s) & (Meta)-Models for defining __poweful__ Models.
 
@@ -11,7 +11,7 @@ To Be Completed ...
 
 Where Used
 -
-The KeQuark (Meta-)Model is dedicated to be used in for those intitatives : 
+The __KeQuarks__ (Meta-)Model is dedicated to be used in for those intitatives : 
 
 <table>
     <thead>
