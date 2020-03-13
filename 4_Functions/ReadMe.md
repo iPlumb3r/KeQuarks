@@ -26,7 +26,7 @@ Basicaly we need 3 very essential features :
         </tr>
         <tr>
             <td>Meta-Modeling</td>
-            <td>A same things could be #0 (Topic) in a context and a #0 (Type) in another context</td>
+            <td>A same things could be #0 (Topic) in a context and a #2 (Type) in another context</td>
             <td></td>
         </tr>
     </tbody>
