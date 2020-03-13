@@ -8,6 +8,16 @@ The goal of this initiative is to identify and define __relevant__ Concepts & (M
 * <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/1_Semantic">Concept</a> identification is done by selecting them in already existing relevant <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/2_Paradigms">paradigms</a>
 * Concept definition is done via an onto-terminology approach, where concepts & terms which denote them are "decoupled" (in order to avoid - or at least limit - any terminological debate). This kind of approach allows both a common consensus about concepts, but allows also everybody to use its prefered terms. 
 
+
+Motivation
+-
+In order to build flexible and robust business application defined in the scope of the <a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a> initiative, we need to design a very releven model ...
+... just because the structure of the "Brick" used to build a house directly impact the House architecture.
+
+Remember this story : 
+![3LittlePigHouses](https://github.com/iPlumb3r/KeQuarks/blob/master/images/3LittlePigsHouse.jpeg)
+
+
 Where Used
 -
 The __KeQuarks__ (Meta-)Model is dedicated to be used in for those intitatives : 
