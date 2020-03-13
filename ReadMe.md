@@ -20,49 +20,9 @@ Remember this story :
 
 Where Used
 -
-The __KeQuarks__ (Meta-)Model is dedicated to be used in for those intitatives : 
+The __KeQuarks__ (Meta-)Model should be used for the __KeQuarks__ initiative (Just because KeQuarks should be "self-descriptive" : Dogfooding At Works)
 
-<table>
-    <thead>
-        <tr>
-            <th>Initiative</th>
-            <th>Description</th>
-            <th>Comment</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks">KeQuark</a></td>
-            <td>A (Meta-)Model for designing Model(s)</td>
-            <td>Just because KeQuarks should be "self-descriptive" : Dogfooding At Works !</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a></td>
-            <td>A Fully Distributed Conceptionary Manager</td>
-            <td>Collaborative identification and definition of canditate concepts for designing ontologies</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a></td>
-            <td>Methodology and Templates for Representating & Visualizing Semantically Organized Information</td>
-            <td>Because representing and visualizing informations about any business domain is - itself - a business domain</td>
-        </tr>
-         <tr>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">E2M (Ecosystem Mapping Model)</a></td>
-            <td>Methodology and tools (OWL-Compliant Toos, <a href="https://www.topincs.com/">Topincs</a> & <a href="http://keeplink.com/">KeepLink</a>) for building a Semantic Cartography of any ecosytem>/td>
-            <td>In order to answer key questions about any Ecosystem : WHO ? Does WHAT ? HOW ? For WHAT ? & WHY ?</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">EBR ("Entangled Bootstrap" Repository)</a></td>
-            <td>E2M applied to "semantic technologies & "distributed web" ecosystems</td>
-            <td>By targeting more precisely at the intersection between these 2 ecosystems</td>
-        </tr>
-        <tr>
-            <td>Distributed Semantic-Driven Business Application(s)</a></td>
-            <td>e.g. dSem-PLM, dSem-CRM, dSem-ERP, ...</td>
-            <td>KeQuarks could also be used for many others applications ...</td>
-        </tr>
-    </tbody>
-</table>
+And also some initiatives/projects in this <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">"Big Picture" Map</a>
 
 Resources
 -
