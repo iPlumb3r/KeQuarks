@@ -26,6 +26,5 @@ And also some initiatives/projects in this <a href="http://hubject.net/iPlumb3r/
 
 Resources
 -
-A list of useful resources :
-* <a href="http://hubject.net/iPlumb3r/GitHub/Meta-Map.html">Context Map</a>   
+A list of useful resources :  
 * <a href="https://t.me/KeQuarks">"Public" KeQuarks Telegram Group</a>  
