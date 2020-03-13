@@ -11,8 +11,8 @@ The goal of this initiative is to identify and define __relevant__ Concepts & (M
 
 Motivation
 -
-In order to build flexible and robust business application defined in the scope of the <a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a> initiative, we need to design a very releven model ...
-... just because the structure of the "Brick" used to build a "House" directly impact its architecture.
+In order to build flexible and robust business application defined in the scope of the <a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a> initiative, we need to design a very releven model ...   
+... just because the structure of the "Brick" (Meta-)Model used to build a "House" (Application) directly impact its architecture.
 
 Remember this story :   
 ![3LittlePigHouses](https://github.com/iPlumb3r/KeQuarks/blob/master/images/3LittlePigsHouse.jpeg)
