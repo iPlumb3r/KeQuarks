@@ -35,7 +35,7 @@ Key Concepts
             <td>Things</td>
             <td>Topics, Elements, Entities, Individuals, ... </td>
             <td>The set of ALL #0 (topics).</td>
-            <td>-</td>
+            <td>N/A</td>
             <td>Usage of "Things" instead of "Topics" as prefered label, because its includes also Tuples, Types, ...</td>
         </tr>
         <tr>
@@ -51,7 +51,7 @@ Key Concepts
             <td>Tuples</td>
             <td>Links, Relations, Associations, ...</td>
             <td>The set of ALL #1 (Tuples).</td>
-            <td>-</td>
+            <td>N/A</td>
             <td></td>
         </tr>
         <tr>
@@ -67,7 +67,7 @@ Key Concepts
             <td>Types</td>
             <td>Classes, Categories, Sets, ...</td>           
             <td>The set of ALL #2 (types).</td>
-            <td>-</td>
+            <td>N/A</td>
             <td></td>
         </tr>
     </tbody>
@@ -108,7 +108,7 @@ Derived (Useful) Concepts
             <td>#3s</td>
             <td>Topic Types</td>
             <td>The set of ALL #3 (topic type)</td>
-            <td>A #2 of #0 (= "#0#2")</td>
+            <td>-</td>
             <td></td>
             <td></td>
         </tr>
@@ -124,12 +124,14 @@ Derived (Useful) Concepts
             <td>#4s</td>
             <td>Tuple types</td>
             <td>The set of ALL #4 (tuple type)</td>
-            <td>A #2 of #1 (= "#1#0")</td>
+            <td>-</td>
             <td></td>
             <td></td>
         </tr>
     </tbody>
 </table>
+
+![Sets](https://github.com/iPlumb3r/KeQuarks/blob/master/images/KeQuarksSets_2020-03-16.png)
 
 Others (Non Mandatory) Concepts
 -
