@@ -147,35 +147,35 @@ Others (Non Mandatory) Concepts
     </thead>
     <tbody>
         <tr>
-            <td>#6</td>
+            <td>#5</td>
             <td>Property</td>
             <td>A characteristic of a thing</td>
             <td>N/A</td>
             <td>#6 is a #1 towards specific #2</td>
         </tr>
         <tr>
-            <td>#7</td>
+            <td>#6</td>
             <td>Topic Property</td>
             <td>A characteristic of a topic</td>
             <td>"Tim Berner Lee" . "birth date" = "1955 June 8"</td>
             <td></td>
         </tr>
         <tr>
-            <td>#8</td>
+            <td>#7</td>
             <td>Tuple Property</td>
             <td>A characteristic of a tuple</td>
             <td>"Tim Berner Lee" & "W3C" . "hiring date" = "2009"</td>
             <td></td>
         </tr>
         <tr>
-            <td>#9</td>
+            <td>#8</td>
             <td>Topic Type Property</td>
             <td>Property which characterize all topics of a Topic Type</td>
             <td>"Persons" . "birth date"</td>
             <td></td>
         </tr>
         <tr>
-            <td>#10</td>
+            <td>#9</td>
             <td>Tuple Type Property</td>
             <td>Property which characterize all tuples of a Tuple Type</td>
             <td>"Persons" => "Organizations" . "hiring date"</td>
