@@ -36,7 +36,7 @@ Key Concepts
             <td>Topics, Elements, Entities, Individuals, ... </td>
             <td>The set of ALL #0 (topics).</td>
             <td>-</td>
-            <td>Including Tuples, Types, ...</td>
+            <td>Usage of "Things" instead of 'Topics" as prefered label, because its includes also Tuples, Types, ...</td>
         </tr>
         <tr>
             <td>#1</td>
@@ -66,7 +66,7 @@ Key Concepts
             <td>#2</td>
             <td>Types</td>
             <td>Classes</td>           
-            <td>The set of ALL types.</td>
+            <td>The set of ALL #2 (types).</td>
             <td></td>
             <td></td>
         </tr>
