@@ -57,15 +57,15 @@ Key Concepts
         <tr>
             <td>#2</td>
             <td>type</td>
-            <td>class</td>           
-            <td>A set of particular things.</td>
+            <td>class, category, set, ...</td>           
+            <td>A set of #0 (topics) which are sharing commons characteristics.</td>
             <td>"Persons", "Organizations", "affiates to", "has part", ...</td>
             <td>A #2 is (also) a #0</td>
         </tr>
         <tr>
             <td>#2s</td>
             <td>Types</td>
-            <td>Classes</td>           
+            <td>Classes, Categories, Sets, ...</td>           
             <td>The set of ALL #2 (types).</td>
             <td>-</td>
             <td></td>
