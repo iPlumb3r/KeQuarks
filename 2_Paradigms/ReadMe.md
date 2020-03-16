@@ -83,7 +83,7 @@ Classification
     </thead>
     <tbody>
         <tr>
-            <td>Property "as is"</td>
+            <td>Property "as pointer"</td>
             <td>Keep Link</td>
             <td>?</td>
             <td>Topic Maps, Grakn</td>
