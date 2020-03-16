@@ -108,7 +108,7 @@ Derived (Useful) Concepts
             <td>#3s</td>
             <td>Topic Types</td>
             <td>The set of ALL #3 (topic type)</td>
-            <td>-</td>
+            <td>#0#2s</td>
             <td></td>
             <td></td>
         </tr>
@@ -116,7 +116,7 @@ Derived (Useful) Concepts
             <td>#4</td>
             <td>tuple type</td>
             <td>A type of tuples = A - given - set of "similar" tuple(s)</td>
-            <td>A #2 of #1 (= "#1#0")</td>
+            <td>A #2 of #1 (= "#1#2")</td>
             <td>"affiates to", "has part", ...</td>
             <td>#4 is a #2</td>
         </tr>
@@ -124,7 +124,7 @@ Derived (Useful) Concepts
             <td>#4s</td>
             <td>Tuple types</td>
             <td>The set of ALL #4 (tuple type)</td>
-            <td>-</td>
+            <td>#1#2s</td>
             <td></td>
             <td></td>
         </tr>
