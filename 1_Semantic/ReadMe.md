@@ -88,9 +88,9 @@ Derived (Useful) Concepts
     <thead>
         <tr>
             <th>Concept ID</th>
-            <th>Path</th>
             <th>Prefered Label</th>
             <th>Description</th>
+            <th>Path</th>
             <th>Example</th>
             <th>Comment</th>         
         </tr>
@@ -98,25 +98,33 @@ Derived (Useful) Concepts
     <tbody>
         <tr>
             <td>#3</td>
-            <td>A #2 of #0</td>
-            <td>Topic Type</td>
+            <td>topic type</td>
             <td>A type of topics = A - given - set of "similar" topic(s)</td>
+            <td>A #2 of #0 (= "#0#2")</td>
             <td>"Persons", "Organizations", ...</td>
             <td>#3 is a #2</td>
         </tr>
         <tr>
+            <td>#3s</td>
+            <td>Topic Types</td>
+            <td>The set of ALL #3 (topic type)</td>
+            <td>A #2 of #0 (= "#0#2")</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>#4</td>
-            <td>A #2 of #1</td>
-            <td>Tuple Type</td>
+            <td>tuple type</td>
             <td>A type of tuples = A - given - set of "similar" tuple(s)</td>
+            <td>A #2 of #1 (= "#1#0")</td>
             <td>"affiates to", "has part", ...</td>
             <td>#4 is a #2</td>
         </tr>
         <tr>
-            <td>#5</td>
-            <td>The set of all #0(s)</td>
-            <td>Things</td>
-            <td>The set of all topics</td>
+            <td>#4s</td>
+            <td>Tuple types</td>
+            <td>The set of ALL #4 (tuple type)</td>
+            <td>A #2 of #1 (= "#1#0")</td>
             <td></td>
             <td></td>
         </tr>
