@@ -102,8 +102,6 @@ Classification
 
 Killer-Features
 -
-List
--
 
 A list of interesting paradigms : 
 <table>
@@ -138,14 +136,15 @@ A list of interesting paradigms :
         <tr>
             <td>Topic Maps</td>
             <td>No</td>
-            <td>TM Community</td>
-            <td>Role based modeling</td>
+            <td>No</td>
+            <td>No/td>
 
         </tr>
         <tr>
             <td>Grakn</td>
-            <td>Graph Database</td>
-            <td><a href="https://grakn.ai/">Grakn Labs</a></td>
-            <td>Role based modeling</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Yes</td>
         </tr>
+     </tbody>
 </table>
