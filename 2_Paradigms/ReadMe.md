@@ -117,8 +117,8 @@ A list of interesting paradigms :
         <tr>
             <td>BORO</td>
             <td>No</td>
-            <td>No</td>
-            <td>No</td>
+            <td>Yes</td>
+            <td>Yes ?</td>
         </tr>
         <tr>
             <td>KL Meta-Model</td>
