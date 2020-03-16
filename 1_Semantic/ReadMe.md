@@ -51,7 +51,7 @@ Key Concepts
             <td>Tuples</td>
             <td>Links, Relations, Associations, ...</td>
             <td>The set of ALL #1 (Tuples).</td>
-            <td></td>
+            <td>-</td>
             <td></td>
         </tr>
         <tr>
@@ -67,7 +67,7 @@ Key Concepts
             <td>Types</td>
             <td>Classes</td>           
             <td>The set of ALL #2 (types).</td>
-            <td></td>
+            <td>-</td>
             <td></td>
         </tr>
     </tbody>
