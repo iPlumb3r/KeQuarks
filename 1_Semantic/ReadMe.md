@@ -26,7 +26,7 @@ Key Concepts
             <td>#0</td>
             <td>topic</td>
             <td>thing, element, entity, individual, ... </td>
-            <td>A particular thing</td>
+            <td>A particular thing.</td>
             <td>"Tim Berner Lee", "W3C", ...</td>
             <td></td>
         </tr>
@@ -34,7 +34,7 @@ Key Concepts
             <td>#0s</td>
             <td>Things</td>
             <td>Topics, Elements, Entities, Individuals, ... </td>
-            <td>The set of ALL #0 (topics)</td>
+            <td>The set of ALL #0 (topics).</td>
             <td>-</td>
             <td>Including Tuples, Types, ...</td>
         </tr>
@@ -42,7 +42,7 @@ Key Concepts
             <td>#1</td>
             <td>tuple</td>
             <td>link, relation, association, ...</td>
-            <td>A link between 2 (or potentially more ?) particular things.</td>
+            <td>A link between 2 (or potentially more ?) topics.</td>
             <td>The link between "Tim Berner Lee" & "W3C" (untyped, but oriented)</td>
             <td>A #1 is (also) a #0</td>
         </tr>
@@ -50,7 +50,7 @@ Key Concepts
             <td>#1s</td>
             <td>Tuples</td>
             <td>Links, Relations, Associations, ...</td>
-            <td>The set of ALL #1 (Tuples)</td>
+            <td>The set of ALL #1 (Tuples).</td>
             <td></td>
             <td></td>
         </tr>
@@ -66,7 +66,7 @@ Key Concepts
             <td>#2</td>
             <td>Types</td>
             <td>Classes</td>           
-            <td>The set of ALL types</td>
+            <td>The set of ALL types.</td>
             <td></td>
             <td></td>
         </tr>
