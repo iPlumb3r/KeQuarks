@@ -5,8 +5,8 @@ This page is trying a "best of breed" approach for selecting candidate concept p
 ... in order to define a powerful (and beautiful ;-) KeQuarks (Meta-)Model
 
 In order to avoid any debate about terminology : 
-* Concepts are here primary identified by a non significative IDs (A prefered label is just provided as an example) ...
-* ... then, those Concepts are "mapped" with Terms used by each <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/2_Paradigms">paradigm</a>
+* __Concepts__ are here primary identified by a _non significative IDs_ (A prefered label is just provided as an example) ...
+* ... then, those __Concepts__ are "mapped" with __Terms__ used by each <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/2_Paradigms">paradigm</a>
 
 Key Concepts
 -
