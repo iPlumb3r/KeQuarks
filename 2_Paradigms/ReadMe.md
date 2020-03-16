@@ -1,6 +1,9 @@
 Paradigms
 ==
 
+List
+-
+
 A list of interesting paradigms : 
 <table>
     <thead>
@@ -63,5 +66,37 @@ A list of interesting paradigms :
             <td><a href="https://en.wikipedia.org/wiki/Set_theory">Wikipedia (EN)</a></td>
         </tr>
     </tbody>
+    </tbody>
+</table>
+
+Classification
+-
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>2-Ary Oriented Tuple (Without Role)</th>
+            <th>2-Ary Non Oriented Tuple (with Role)</th>
+           <th>N-Ary Non Oriented Tuple (with Role)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Property "as is"</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A3</td>
+        </tr>
+        <tr>
+            <td>Property "as Types"</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A3</td>
+        </tr>
+        <td>Property "as Link"</td>
+            <td>A2</td>
+            <td>A3</td>
+            <td>A3</td>
     </tbody>
 </table>
