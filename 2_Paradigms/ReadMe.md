@@ -84,7 +84,7 @@ Classification
     <tbody>
         <tr>
             <td>Property "as pointer"</td>
-            <td>Keep Link</td>
+            <td>KL Mete-Model, RDF(S)-OWL</td>
             <td>?</td>
             <td>Topic Maps, Grakn</td>
         </tr>
