@@ -63,7 +63,7 @@ Key Concepts
             <td>A #2 is (also) a #0</td>
         </tr>
         <tr>
-            <td>#2</td>
+            <td>#2s</td>
             <td>Types</td>
             <td>Classes</td>           
             <td>The set of ALL #2 (types).</td>
