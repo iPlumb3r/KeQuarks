@@ -109,19 +109,19 @@ A list of interesting paradigms :
         <tr>
             <th>Paradigm</th>
             <th>Link Reification ?</th>
-             <th>Multi-Typing ?</th>           
+            <th>Multi-Typing ?</th>           
             <th>Meta-Modeling ?</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KnowledgeEngineeringParticles/blob/master/2_Paradigms/BORO.md">BORO</a></td>
+            <td>BORO</td>
             <td>No</td>
             <td>No</td>
             <td>No</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KnowledgeEngineeringParticles/blob/master/2_Paradigms/KL_M-M.md">KL Meta-Model</a></td>
+            <td>KL Meta-Model</td>
             <td>Yes (Systematic)</td>
             <td>Yes</td>
             <td>Yes</td>
@@ -131,14 +131,12 @@ A list of interesting paradigms :
             <td>No</td>
             <td>Yes</td>
             <td>No</td>
-
         </tr>
         <tr>
             <td>Topic Maps</td>
             <td>No</td>
             <td>No</td>
-            <td>No/td>
-
+            <td>No</td>
         </tr>
         <tr>
             <td>Grakn</td>
