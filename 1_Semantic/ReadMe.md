@@ -90,7 +90,7 @@ Derived (Useful) Concepts
             <th>Concept ID</th>
             <th>Prefered Label</th>
             <th>Description</th>
-            <th>Path</th>
+            <th>Semantic Path</th>
             <th>Example</th>
             <th>Comment</th>         
         </tr>
