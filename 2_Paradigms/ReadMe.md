@@ -84,19 +84,19 @@ Classification
     <tbody>
         <tr>
             <td>Property "as is"</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A3</td>
+            <td>Keep Link</td>
+            <td>?</td>
+            <td>Topic Maps, Grakn</td>
         </tr>
         <tr>
             <td>Property "as Types"</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A3</td>
+            <td>BORO</td>
+            <td>?</td>
+            <td>?</td>
         </tr>
         <td>Property "as Link"</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A3</td>
+            <td>KeQuarks ?</td>
+            <td>?</td>
+            <td>?</td>
     </tbody>
 </table>
