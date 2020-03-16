@@ -128,7 +128,7 @@ A list of interesting paradigms :
         </tr>
         <tr>
             <td>RDF(S)-OWL</td>
-            <td>No</td>
+            <td>No (Need to plan via Classes)</td>
             <td>Yes</td>
             <td>No</td>
         </tr>
@@ -140,9 +140,9 @@ A list of interesting paradigms :
         </tr>
         <tr>
             <td>Grakn</td>
-            <td>Yes</td>
-            <td>Yes</td>
-            <td>Yes</td>
+            <td>No (Need to plan via N-Ary Relations)</td>
+            <td>No</td>
+            <td>No (Via Inference Rules)</td>
         </tr>
      </tbody>
 </table>
