@@ -66,7 +66,6 @@ A list of interesting paradigms :
             <td><a href="https://en.wikipedia.org/wiki/Set_theory">Wikipedia (EN)</a></td>
         </tr>
     </tbody>
-    </tbody>
 </table>
 
 Classification
@@ -99,4 +98,54 @@ Classification
             <td>?</td>
             <td>?</td>
     </tbody>
+</table>
+
+Killer-Features
+-
+List
+-
+
+A list of interesting paradigms : 
+<table>
+    <thead>
+        <tr>
+            <th>Paradigm</th>
+            <th>Link Reification ?</th>
+             <th>Multi-Typing ?</th>           
+            <th>Meta-Modeling ?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/KnowledgeEngineeringParticles/blob/master/2_Paradigms/BORO.md">BORO</a></td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/KnowledgeEngineeringParticles/blob/master/2_Paradigms/KL_M-M.md">KL Meta-Model</a></td>
+            <td>Yes (Systematic)</td>
+            <td>Yes</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>RDF(S)-OWL</td>
+            <td>No</td>
+            <td>Yes</td>
+            <td>No</td>
+
+        </tr>
+        <tr>
+            <td>Topic Maps</td>
+            <td>No</td>
+            <td>TM Community</td>
+            <td>Role based modeling</td>
+
+        </tr>
+        <tr>
+            <td>Grakn</td>
+            <td>Graph Database</td>
+            <td><a href="https://grakn.ai/">Grakn Labs</a></td>
+            <td>Role based modeling</td>
+        </tr>
 </table>
