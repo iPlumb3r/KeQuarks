@@ -133,6 +133,10 @@ Derived (Useful) Concepts
 
 ![Sets](https://github.com/iPlumb3r/KeQuarks/blob/master/images/KeQuarksSets_2020-03-16.png)
 
+At this point it is important to distinguish :
+* Topic-based modeling (Based on "Oriented 2-Ary Tuples") : like BORO, RDF(S)-OWL, ...
+* Role-based modeling paradim (Based on "Non Oriented N-Ary Tuples") : like Topic Maps, Grakn,...
+
 Others (Non Mandatory) Concepts
 -
 <table>
