@@ -1,12 +1,12 @@
 Semantic
 ==
 
-This page is trying a "best of breed" approach for selecting candidate concept patterns for the KEP initiative ...  
-... in order to define a powerful KeQuarks (Meta-)Model
+This page is trying a "best of breed" approach for selecting candidate concept patterns for the HGQ-4-KEEP initiative ...  
+... in order to define a powerful (and beautiful ;-) KeQuarks (Meta-)Model
 
 In order to avoid any debate about terminology : 
 * Concepts are here primary identified by a non significative IDs (A prefered label is just provided as an example) ...
-* ... then, those Concepts are "mapped" with Terms used by each paradigm
+* ... then, those Concepts are "mapped" with Terms used by each <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/2_Paradigms">paradigm</a>
 
 Key Concepts
 -
