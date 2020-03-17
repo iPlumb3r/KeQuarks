@@ -4,7 +4,11 @@ Features x Paradigms
 How paradigms deals with killer-features ?
 -
 
-A list of interesting paradigms : 
+This table allow to show if given <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Features">Features</a> is provided or not by a given <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">Paradigms</a> :
+* YES (Native) : The Feature is here "by design"
+* MUH (Not Native) : The Feature is possible "by circumvent"
+* NO : The Feature is NOT avaible
+
 <table>
     <thead>
         <tr>
@@ -17,33 +21,33 @@ A list of interesting paradigms :
     <tbody>
         <tr>
             <td>BORO</td>
-            <td>No</td>
-            <td>Yes</td>
-            <td>Yes ?</td>
+            <td>???</td>
+            <td>???</td>
+            <td>???</td>
         </tr>
         <tr>
             <td>KL Meta-Model</td>
-            <td>Yes (Systematic)</td>
-            <td>Yes</td>
-            <td>Yes</td>
+            <td>YES (Systematic)</td>
+            <td>YES</td>
+            <td>YES</td>
         </tr>
         <tr>
             <td>RDF(S)-OWL</td>
-            <td>No (Need to be planned via dedicated Classes)</td>
-            <td>Yes (but OWL-compliant tools are not usable</td>
-            <td>Yes (in theory, but not practically implemented)</td>
+            <td>MUH (Need to be planned via dedicated Classes)</td>
+            <td>YES (but OWL-compliant tools are not usable</td>
+            <td>YES (in theory, but not practically implemented)</td>
         </tr>
         <tr>
             <td>Topic Maps</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
         </tr>
         <tr>
             <td>Grakn</td>
-            <td>No (Need to be planned via N-Ary Relations)</td>
-            <td>No</td>
-            <td>No (Via Inference Rules)</td>
+            <td>MUH (Need to be planned via N-Ary Relations)</td>
+            <td>NO</td>
+            <td>MUH (Via Inference Rules)</td>
         </tr>
      </tbody>
 </table>
