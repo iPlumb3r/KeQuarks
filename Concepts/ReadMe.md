@@ -144,6 +144,7 @@ Others (Non Mandatory) Concepts
         <tr>
             <th>Concept ID</th>
             <th>Prefered Label</th>
+            <th>Alternative Label(s)</th>
             <th>Description</th>
             <th>Example</th>
             <th>Comment</th>         
@@ -153,6 +154,7 @@ Others (Non Mandatory) Concepts
         <tr>
             <td>#5</td>
             <td>Property</td>
+            <td>Attribute, Occurence, Characteristic, Resource, ...</td>
             <td>A characteristic of a thing</td>
             <td>N/A</td>
             <td>#6 is a #1 towards specific #2</td>
@@ -160,6 +162,7 @@ Others (Non Mandatory) Concepts
         <tr>
             <td>#6</td>
             <td>Topic Property</td>
+            td>-</td>
             <td>A characteristic of a topic</td>
             <td>"Tim Berner Lee" . "birth date" = "1955 June 8"</td>
             <td></td>
@@ -167,6 +170,7 @@ Others (Non Mandatory) Concepts
         <tr>
             <td>#7</td>
             <td>Tuple Property</td>
+            <td>-</td>
             <td>A characteristic of a tuple</td>
             <td>"Tim Berner Lee" & "W3C" . "hiring date" = "2009"</td>
             <td></td>
@@ -174,6 +178,7 @@ Others (Non Mandatory) Concepts
         <tr>
             <td>#8</td>
             <td>Topic Type Property</td>
+            <td>-</td>
             <td>Property which characterize all topics of a Topic Type</td>
             <td>"Persons" . "birth date"</td>
             <td></td>
@@ -181,6 +186,7 @@ Others (Non Mandatory) Concepts
         <tr>
             <td>#9</td>
             <td>Tuple Type Property</td>
+            <td>-</td>
             <td>Property which characterize all tuples of a Tuple Type</td>
             <td>"Persons" => "Organizations" . "hiring date"</td>
             <td></td>
