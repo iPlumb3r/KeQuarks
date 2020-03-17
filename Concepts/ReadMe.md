@@ -1,7 +1,7 @@
 Concepts
 ==
 
-This page is trying a "best of breed" approach for selecting candidate concept patterns for the HGQ-4-KEEP initiative ...  
+This page is trying a "best of breed" approach for selecting candidate concepts & concept patterns for the HGQ-4-KEEP initiative ...  
 ... in order to define a powerful (and beautiful ;-) KeQuarks (Meta-)Model
 
 In order to avoid any debate about terminology : 
