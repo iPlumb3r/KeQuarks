@@ -153,7 +153,7 @@ Tuple-Based Concepts
     <tbody>
         <tr>
             <td>#5</td>
-            <td>2-Ary tuple</td>
+            <td>2-ary tuple</td>
             <td>Binary Relation</td>
             <td>A relation between 2 topics</td>
             <td>N/A</td>
@@ -161,7 +161,23 @@ Tuple-Based Concepts
         </tr>
          <tr>
             <td>#5s</td>
-            <td>The set of All 2-Ary tuples</td>
+            <td>The set of ALL 2-ary tuples</td>
+            <td></td>
+            <td></td>
+            <td>N/A</td>
+            <td>Abstract type</td>
+        </tr>
+         <tr>
+            <td>#6</td>
+            <td>2-ary tuple type</td>
+            <td>Type of Binary Relation</td>
+            <td>A given type of relation between 2 topics</td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>6s</td>
+            <td>The set of ALL 2-ary tuple types</td>
             <td></td>
             <td></td>
             <td>N/A</td>
