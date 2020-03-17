@@ -22,8 +22,9 @@ Content
 In this repository we are first listing <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">Concepts</a>, <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Features">Features</a> (allowed by Concept patterns) & <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">Paradigms</a> ...   
 ... and then we are trying to determine :
 * Which Concept pattern allow a given Feature
-* How Paradigmw are classified according Concept patterns
-* Wich Paradigm allow which Feature
+* How Paradigms are classified according Concept patterns : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Concepts_x_Paradigms.md">here</a>
+* Wich Paradigm allow which Feature : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features_x_Paradigms.md">here</a>
+
 
 
 
