@@ -1,4 +1,4 @@
-Functions
+Features
 ==
 
 This section is about required functions for the KeQuarks Model
