@@ -4,7 +4,7 @@ Features x Paradigms
 How paradigms deals with killer-features ?
 -
 
-This table allows to show if given <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Features">Features</a> is provided or not by a given <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">Paradigms</a> :
+This table allows to show if given killer-<a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Features">Feature</a> is provided or not by a given <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">Paradigm</a> :
 * YES (Native) : The Feature is here "by design"
 * MUH (Not Native) : The Feature is possible "by circumvent"
 * NO : The Feature is NOT avaible
