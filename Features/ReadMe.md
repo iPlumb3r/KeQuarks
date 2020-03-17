@@ -1,7 +1,7 @@
 Features
 ==
 
-This section is about required feature for the KeQuarks Model
+This section is about required features for the KeQuarks Model
 
 Basic Features
 -
