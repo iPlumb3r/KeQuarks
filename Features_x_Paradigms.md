@@ -39,7 +39,7 @@ This table allows to show if given killer-<a href="https://github.com/iPlumb3r/K
         </tr>
         <tr>
             <td>Topic Maps</td>
-            <td>NO</td>
+            <td>MUH (Need to be planned via dedicated Classes)</td>
             <td>NO</td>
             <td>NO</td>
         </tr>
