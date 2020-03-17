@@ -153,7 +153,7 @@ At this point it is important to distinguish :
 * Topic-based modeling (Based on "Oriented 2-Ary Tuples") : e.g. BORO, RDF(S)-OWL, ...
 * Role-based modeling paradim (Based on "Non Oriented N-Ary Tuples") : e.g. Topic Maps, Grakn,...
 
-Tuple-Based Concepts
+Tuple-Based Concepts (And Role-Based Concepts)
 -
 <table>
     <thead>
