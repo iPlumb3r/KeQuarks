@@ -177,9 +177,9 @@ Tuple-Based Concepts (And Role-Based Concepts)
         </tr>
          <tr>
             <td>#5s</td>
+            <td>2-Ary Tuple Type</td>
+            <td></td>
             <td>The set of ALL 2-ary tuples</td>
-            <td></td>
-            <td></td>
             <td>N/A</td>
             <td>Abstract type</td>
         </tr>
@@ -193,9 +193,9 @@ Tuple-Based Concepts (And Role-Based Concepts)
         </tr>
          <tr>
             <td>#6s</td>
-            <td>The set of ALL 2-ary tuple types</td>
+            <td>2-Ary Tuple Types</td>
             <td></td>
-            <td></td>
+            <td>>The set of ALL 2-ary tuple types</td>
             <td>N/A</td>
             <td>Abstract type</td>
         </tr>
