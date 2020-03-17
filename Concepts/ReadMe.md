@@ -183,6 +183,30 @@ Tuple-Based Concepts
             <td>N/A</td>
             <td>Abstract type</td>
         </tr>
+         <tr>
+            <td>7</td>
+            <td>2-ary oriented tuple</td>
+            <td>Oriented Binary Relation</td>
+            <td></td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>9</td>
+            <td>2-ary non oriented tuple</td>
+            <td>Non Oriented Binary Relation</td>
+            <td></td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>n-ary non oriented tuple</td>
+            <td>Non Oriented N-Ary Relation</td>
+            <td></td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
