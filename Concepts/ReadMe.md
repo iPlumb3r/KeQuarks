@@ -128,6 +128,22 @@ Derived (Useful) Concepts
             <td></td>
             <td></td>
         </tr>
+         <tr>
+            <td>#13</td>
+            <td>role</td>
+            <td>Role played by a topic in a non-oriented relation</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#14</td>
+            <td>role type</td>
+            <td>Type of role played by a topic in a non-oriented relation</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
