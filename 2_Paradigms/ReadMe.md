@@ -75,7 +75,7 @@ Classification
     <thead>
         <tr>
             <th></th>
-            <th>Oriented Tuples (2-Ary) => Without Role</th>
+            <th>Oriented Tuples (2-Ary Only) => Without Role</th>
            <th>Non Oriented Tuples (2-Ary & N-Ary) => With Role</th>
         </tr>
     </thead>
