@@ -75,27 +75,23 @@ Classification
     <thead>
         <tr>
             <th></th>
-            <th>2-Ary Oriented Tuple (Without Role)</th>
-            <th>2-Ary Non Oriented Tuple (with Role)</th>
-           <th>N-Ary Non Oriented Tuple (with Role)</th>
+            <th>Oriented Tuples (2-Ary) => Without Role</th>
+           <th>Non Oriented Tuples (2-Ary & N-Ary) => With Role</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Property "as pointer"</td>
             <td>KL Meta-Model, RDF(S)-OWL</td>
-            <td>?</td>
             <td>Topic Maps, Grakn</td>
         </tr>
         <tr>
             <td>Property "as Types"</td>
             <td>BORO</td>
             <td>?</td>
-            <td>?</td>
         </tr>
         <td>Property "as Link"</td>
             <td>KeQuarks ?</td>
-            <td>?</td>
             <td>?</td>
     </tbody>
 </table>
