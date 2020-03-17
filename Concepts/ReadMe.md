@@ -122,7 +122,7 @@ Derived (Useful) Concepts
         </tr>
         <tr>
             <td>#4s</td>
-            <td>Tuple types</td>
+            <td>Tuple Types</td>
             <td>The set of ALL #4 (tuple type)</td>
             <td>#1#2s</td>
             <td></td>
