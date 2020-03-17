@@ -68,33 +68,9 @@ A list of interesting paradigms :
     </tbody>
 </table>
 
-Classification
+More details about paradigms
 -
-
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Oriented Tuples (2-Ary Only) => Without Role</th>
-           <th>Non Oriented Tuples (2-Ary & N-Ary) => With Role</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Property "as pointer"</td>
-            <td>KL Meta-Model, RDF(S)-OWL</td>
-            <td>Topic Maps, Grakn</td>
-        </tr>
-        <tr>
-            <td>Property "as Types"</td>
-            <td>BORO</td>
-            <td>?</td>
-        </tr>
-        <td>Property "as Link"</td>
-            <td>KeQuarks ?</td>
-            <td>?</td>
-    </tbody>
-</table>
+In this <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Concepts_x_Paradigms.md">page</a> we can see "how Paradigms are classified according main Concepts"
 
 Killer-Features
 -
