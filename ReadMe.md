@@ -23,7 +23,7 @@ In this repository we are first listing <a href="https://github.com/iPlumb3r/KeQ
 ... and then we are trying to determine :
 * Which Concept pattern allow a given Feature
 * How Paradigms are classified according Concept patterns : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Concepts_x_Paradigms.md">here</a>
-* Wich Paradigm allow which Feature : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features_x_Paradigms.md">here</a>
+* Which Paradigm allow which Feature : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features_x_Paradigms.md">here</a>
 
 
 
