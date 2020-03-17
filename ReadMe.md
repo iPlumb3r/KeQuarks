@@ -30,7 +30,7 @@ In this repository we are first listing <a href="https://github.com/iPlumb3r/KeQ
 
 Where Used
 -
-The __KeQuarks__ (Meta-)Model should be used for the __KeQuarks__ initiative (Just because KeQuarks should be "self-descriptive" : Dogfooding At Works)
+The __KeQuarks__ (Meta-)Model should be used for the __KeQuarks__ initiative (Just because KeQuarks should be "self-descriptive" : Dogfooding At Works ;-)
 
 And also some initiatives/projects in this <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">"Big Picture" Map</a>
 
