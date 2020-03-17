@@ -70,7 +70,7 @@ A list of interesting paradigms :
 
 More details about paradigms
 -
-In this <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Concepts_x_Paradigms.md">page</a> we can see "how Paradigms are classified according main Concepts"
+In this <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Concepts_x_Paradigms.md">page</a> we can see "how Paradigms are classified according main <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/1_Semantic">Concepts</a>"
 
 Killer-Features
 -
