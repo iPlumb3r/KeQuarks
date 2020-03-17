@@ -196,7 +196,7 @@ Tuple-Based Concepts (And Role-Based Concepts)
             <td>2-Ary Oriented Tuples</td>
             <td></td>
             <td>The set of ALL of oriented relations between 2 topics</td>
-            <td><td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
