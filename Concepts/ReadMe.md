@@ -1,4 +1,4 @@
-Semantic
+Concepts
 ==
 
 This page is trying a "best of breed" approach for selecting candidate concept patterns for the HGQ-4-KEEP initiative ...  
