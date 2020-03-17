@@ -255,6 +255,30 @@ Tuple-Based Concepts (And Role-Based Concepts)
             <td>N/A</td>
             <td></td>
         </tr>
+           <tr>
+            <td>#11s</td>
+            <td>N-Ary Non Oriented Tuples</td>
+            <td></td>
+            <td>The set of ALL N-ary non oriented tuples</td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#12</td>
+            <td>n-ary non oriented tuple type</td>
+            <td></td>
+            <td></td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#12s</td>
+            <td>N-Ary Non Oriented Tuple Types</td>
+            <td></td>
+            <td>The set of ALL N-ary non oriented tuple types</td>
+            <td>N/A</td>
+            <td></td>
+        </tr>    
         <tr>
             <td>#13</td>
             <td>role</td>
