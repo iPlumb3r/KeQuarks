@@ -226,7 +226,7 @@ Tuple-Based Concepts (And Role-Based Concepts)
     </tbody>
 </table>
 
-![TuplesAndRoles](https://github.com/iPlumb3r/KeQuarks/blob/master/images/TupleBasedConceptsAndRoleBasedConcepts_2020-03-17.png)
+![TuplesAndRoles](https://github.com/iPlumb3r/KeQuarks/blob/master/images/TupleBasedConceptsAndRoleBasedConcepts_2020-03-18.png)
 
 Property-Based Concepts
 -
