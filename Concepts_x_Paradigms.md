@@ -25,7 +25,7 @@ Paradigms classification according how they handle Concepts
     </thead>
     <tbody>
         <tr>
-            <td>Property "As 2nd Concept"</td>
+            <td>Property "As a new Concept"</td>
             <td>KL Meta-Model, RDF(S)-OWL</td>
             <td>Topic Maps, Grakn</td>
         </tr>
