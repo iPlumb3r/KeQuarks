@@ -188,7 +188,7 @@ Tuple-Based Concepts (And Role-Based Concepts)
             <td>2-ary oriented tuple</td>
             <td>Oriented Binary Relation</td>
             <td>A oriented relation between 2 topics</td>
-            <td>TBL "affiliated to" W3C<td>
+            <td>TBL "affiliated to" W3C</td>
             <td></td>
         </tr>
         <tr>
@@ -199,7 +199,78 @@ Tuple-Based Concepts (And Role-Based Concepts)
             <td><td>
             <td></td>
         </tr>
-
+        <tr>
+            <td>#8</td>
+            <td>2-ary oriented tuple type</td>
+            <td>Type of Oriented Binary Relation</td>
+            <td>A given type of relation between 2 topics</td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>#8s</td>
+            <td>2-Ary Oriented Tuple Types</td>
+            <td></td>
+            <td>The set of ALL 2-ary oriented tuple types</td>
+            <td>N/A</td>
+            <td>Abstract type</td>
+        </tr>
+         <tr>
+            <td>#9</td>
+            <td>2-ary non oriented tuple</td>
+            <td>Non Oriented Binary Relation</td>
+            <td></td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#9s</td>
+            <td>2-Ary Non Oriented Tuples</td>
+            <td></td>
+            <td>The set of ALL 2-ary non oriented tuples</td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#10</td>
+            <td>2-ary non oriented tuple type</td>
+            <td></td>
+            <td></td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#10s</td>
+            <td>2-Ary Non Oriented Tuple Types</td>
+            <td></td>
+            <td>The set of ALL 2-ary non oriented tuple types</td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#11</td>
+            <td>n-ary non oriented tuple</td>
+            <td>Non Oriented N-Ary Relation</td>
+            <td></td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#13</td>
+            <td>role</td>
+            <td>Role played by a topic in a non-oriented relation</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>#14</td>
+            <td>role type</td>
+            <td>Type of role played by a topic in a non-oriented relation</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
