@@ -137,7 +137,7 @@ At this point it is important to distinguish :
 * Topic-based modeling (Based on "Oriented 2-Ary Tuples") : e.g. BORO, RDF(S)-OWL, ...
 * Role-based modeling paradim (Based on "Non Oriented N-Ary Tuples") : e.g. Topic Maps, Grakn,...
 
-Others (Non Mandatory) Concepts
+Tuple-Based Concepts
 -
 <table>
     <thead>
@@ -153,6 +153,40 @@ Others (Non Mandatory) Concepts
     <tbody>
         <tr>
             <td>#5</td>
+            <td>2-Ary tuple</td>
+            <td>Binary Relation</td>
+            <td>A relation between 2 topics</td>
+            <td>N/A</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>#5s</td>
+            <td>The set of All 2-Ary tuples</td>
+            <td></td>
+            <td></td>
+            <td>N/A</td>
+            <td>Abstract type</td>
+        </tr>
+    </tbody>
+</table>
+
+
+Property-Based Concepts
+-
+<table>
+    <thead>
+        <tr>
+            <th>Concept ID</th>
+            <th>Prefered Label</th>
+            <th>Alternative Label(s)</th>
+            <th>Description</th>
+            <th>Example</th>
+            <th>Comment</th>         
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>#15</td>
             <td>Property</td>
             <td>Attribute, Occurence, Characteristic, Resource, ...</td>
             <td>A characteristic of a thing</td>
@@ -160,7 +194,7 @@ Others (Non Mandatory) Concepts
             <td>#6 is a #1 towards specific #2</td>
         </tr>
         <tr>
-            <td>#6</td>
+            <td></td>
             <td>Topic Property</td>
             <td>-</td>
             <td>A characteristic of a topic</td>
@@ -168,7 +202,7 @@ Others (Non Mandatory) Concepts
             <td></td>
         </tr>
         <tr>
-            <td>#7</td>
+            <td></td>
             <td>Tuple Property</td>
             <td>-</td>
             <td>A characteristic of a tuple</td>
@@ -176,7 +210,7 @@ Others (Non Mandatory) Concepts
             <td></td>
         </tr>
         <tr>
-            <td>#8</td>
+            <td></td>
             <td>Topic Type Property</td>
             <td>-</td>
             <td>Property which characterize all topics of a Topic Type</td>
@@ -184,7 +218,7 @@ Others (Non Mandatory) Concepts
             <td></td>
         </tr>
         <tr>
-            <td>#9</td>
+            <td></td>
             <td>Tuple Type Property</td>
             <td>-</td>
             <td>Property which characterize all tuples of a Tuple Type</td>
