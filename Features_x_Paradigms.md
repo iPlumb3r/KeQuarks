@@ -34,7 +34,7 @@ This table allows to show if given killer-<a href="https://github.com/iPlumb3r/K
         <tr>
             <td>RDF(S)-OWL</td>
             <td>MUH (Need to be planned via dedicated Classes)</td>
-            <td>YES (but OWL-compliant tools are not usable</td>
+            <td>YES (but OWL-compliant tools are not very usable)</td>
             <td>YES (in theory, but not practically implemented)</td>
         </tr>
         <tr>
