@@ -22,17 +22,18 @@ Paradigms classification according how they handle Concepts
     </thead>
     <tbody>
         <tr>
-            <td>Property "as pointer"</td>
+            <td>Property "As Pointer"</td>
             <td>KL Meta-Model, RDF(S)-OWL</td>
             <td>Topic Maps, Grakn</td>
         </tr>
         <tr>
-            <td>Property "as Types"</td>
+            <td>Property "As Types"</td>
             <td>BORO</td>
             <td>?</td>
         </tr>
-        <td>Property "as Link"</td>
+        <td>Property "As Tuple"</td>
             <td>KeQuarks ?</td>
             <td>?</td>
     </tbody>
 </table>
+
