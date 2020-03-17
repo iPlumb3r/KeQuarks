@@ -10,7 +10,7 @@ Basic Features
 
 Killer-Features
 -
-For the whole SEAMLESS <a href="https://github.com/iPlumb3r/BigPicture">"Big Picture"</a>, we need 3 very essential features :
+For the whole SEAMLESS <a href="https://github.com/iPlumb3r/BigPicture">"Big Picture"</a>, we need 3 essential features :
 
 <table>
     <thead>
