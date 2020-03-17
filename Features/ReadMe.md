@@ -5,8 +5,8 @@ This section is about required features for the KeQuarks Model
 
 Basic Features
 -
-* Type Inheritance
-* Tuple Inheritance
+* Topic Type Inheritance
+* Tuple Type Inheritance
 
 Killer-Features
 -
