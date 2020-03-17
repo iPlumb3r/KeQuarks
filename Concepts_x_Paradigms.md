@@ -5,9 +5,12 @@ This section is about "How each <a href="https://github.com/iPlumb3r/KeQuarks/tr
 
 2 importants axis allows to make disctions betweens paradigms :
 * How this paradigm deal with Tiples : Oriented (2-Ary) OR Non Oriented (2-Ary & N-Ary) Tuples ?
-* How this paradimg deal with "Property" : As Pointer, As Type or As Tuple ?
+* How this paradimg deal with "Property" : As 2nd Concept, As Type or As Tuple ?
 
-And those 2 disctinction are able to combinate togheter :
+__Note__ : Oriented Tuple make sens only in the case of 2-Ary Tuples, Non Oriented Tuples make sense both for 2-Ary Tuples & N-Ary-Tuples
+__Note__ : "Property As 2nd Concept" mean that Property are considered as a new concept. "Property As Type" or "Property As Tuple" mean than Property are treated by using already existing concepts.
+
+And those 2 disctinctions are able to combinate togheter :
 
 Paradigms classification according how they handle Concepts
 -
@@ -22,12 +25,12 @@ Paradigms classification according how they handle Concepts
     </thead>
     <tbody>
         <tr>
-            <td>Property "As Pointer"</td>
+            <td>Property "As 2nd Concept"</td>
             <td>KL Meta-Model, RDF(S)-OWL</td>
             <td>Topic Maps, Grakn</td>
         </tr>
         <tr>
-            <td>Property "As Types"</td>
+            <td>Property "As Type"</td>
             <td>BORO</td>
             <td>?</td>
         </tr>
