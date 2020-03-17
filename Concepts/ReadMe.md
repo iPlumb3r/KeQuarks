@@ -161,7 +161,7 @@ Tuple-Based Concepts (And Role-Based Concepts)
         </tr>
          <tr>
             <td>#5s</td>
-            <td>2-Ary Tuple Type</td>
+            <td>2-Ary Tuples</td>
             <td></td>
             <td>The set of ALL 2-ary tuples</td>
             <td>N/A</td>
@@ -179,7 +179,7 @@ Tuple-Based Concepts (And Role-Based Concepts)
             <td>#6s</td>
             <td>2-Ary Tuple Types</td>
             <td></td>
-            <td>>The set of ALL 2-ary tuple types</td>
+            <td>The set of ALL 2-ary tuple types</td>
             <td>N/A</td>
             <td>Abstract type</td>
         </tr>
@@ -187,8 +187,16 @@ Tuple-Based Concepts (And Role-Based Concepts)
             <td>#7</td>
             <td>2-ary oriented tuple</td>
             <td>Oriented Binary Relation</td>
+            <td>A oriented relation between 2 topics</td>
+            <td>TBL "affiliated to" W3C<td>
             <td></td>
-            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>#7s</td>
+            <td>2-Ary Oriented Tuples</td>
+            <td></td>
+            <td>The set of ALL of oriented relations between 2 topics</td>
+            <td><td>
             <td></td>
         </tr>
          <tr>
