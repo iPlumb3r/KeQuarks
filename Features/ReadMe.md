@@ -1,9 +1,16 @@
 Features
 ==
 
-This section is about required functions for the KeQuarks Model
+This section is about required feature for the KeQuarks Model
 
-Basicaly we need 3 very essential features :
+Basic Features
+-
+* Type Inheritance
+* Tuple Inheritance
+
+Killer-Features
+-
+For the whole SEAMLESS <a href="https://github.com/iPlumb3r/BigPicture">"Big Picture"</a>, we need 3 very essential features :
 
 <table>
     <thead>
