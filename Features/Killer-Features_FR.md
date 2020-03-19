@@ -13,7 +13,7 @@ L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi !
 Quelle sont-elles ?
 -
 C'est pourquoi les 3 fonctionalités suivantes peuvent être considérées comme des "killer-features", car elles participent au "décloisonement" des modèles :   
-(Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">Concepts</a> référencés dans le tableau ci-après sont identifiés avec un ID son significatif)
+(Les ID - non significatifs - de concepts utilisés dans le tableau ci-après font référence à ceux définis <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">ici</a>)
 
 <table>
     <thead>
@@ -54,5 +54,4 @@ En Bref !
 
 Pour aller plus loin ...
 -
-Cliquer sur les liens de chaque fonctionalité dans le tableau ci-dessus.  
-(WORK IN PROCESS ...)
+Cliquer sur les liens de chaque fonctionalité dans le tableau ci-dessus.
