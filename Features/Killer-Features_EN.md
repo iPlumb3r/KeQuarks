@@ -55,7 +55,7 @@ For this section the preferred labels used are the following:
 In short !
 -
 * __Link Reification__ : Allows the same "thing" to be a LINK/Statement & an ITEM/individual at the same time.
-* __Multiple Type__ : Allows the same "thing" to be both TYPE/Class A & TYPE/Class B (or even other TYPES/Classes)
+* __Multi-Typing__ : Allows the same "thing" to be both TYPE/Class A & TYPE/Class B (or even other TYPES/Classes)
 * __Meta-Modelling__ : Allows the same "thing" to be both an ITEM/Individual & a TYPE/Class
 
 To go further ...
