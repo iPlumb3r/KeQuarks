@@ -24,17 +24,17 @@ C'est pourquoi les 3 fonctionalités suivantes peuvent être considérées comme
     </thead>
     <tbody>
         <tr>
-            <td>Reification des liens</td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/LinkReification_FR.md">Réification des liens</a></td>
             <td>Chaque #1 (Tuple) est aussi un #0 (Topic)</td>
             <td>Cela permet de "dire des choses" sur des liens</td>
         </tr>
         <tr>
-            <td>Multi-Typage</td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md">Typage multiple</a></td>
             <td>Chaque #0 (Topic) peut être classifié/catégorisé par plusieurs #2 (Type)</td>
             <td>Cela permet d'avoir des vues différentes et complémentaires sur la même base de connaissances</td>
         </tr>
         <tr>
-            <td>Meta-Modelisation</td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Meta-Modeling_FR.md">Méta-Modélisation</a></td>
             <td>Une chose peut être un  #0 (Topic) dans un contexte ET un #2 (Type) dans un autre contexte</td>
             <td>Cela permet une transition douce entre Taxonomies et Ontologies</td>
         </tr>
@@ -48,7 +48,7 @@ Il est vraiment domage que ces fonctionalités soient la plus part du temps cons
 En Bref 
 -
 * __Réification des liens__ : Permet à une même "chose" d’être à la fois un ITEM & un LINK
-* __Multi-Typage__ : Permet à une même  "chose" d’être à la fois de TYPE 1 & de TYPE 2 (voire même de plusieurs TYPES)
+* __Typage multiple__ : Permet à une même  "chose" d’être à la fois de TYPE 1 & de TYPE 2 (voire même de plusieurs TYPES)
 * __Meta-Modelisation__ : Permet à une même "chose" d’être à la fois une ITEM & un TYPE
 
 Pour aller plus loin ...
