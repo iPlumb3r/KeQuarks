@@ -30,3 +30,5 @@ Pourvoir commencer une base de connaissances mettant en relation les TYPES/Class
    
    Et tout cela, sans avoir jamais à "casser" le modèle ...
    ...mais juste à le faire "évoluer en douceur", en fonctione des besoins nouveaux 
+   
+   Inutile de préciser que pour cette fonctionalité, les cas d'usage font légions !!!
