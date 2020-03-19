@@ -3,9 +3,9 @@ Meta-Modelisation
 
 Définition
 -
-Le meta-modeling, consiste à pouvoir être capable de considérer qu’un élément qui est l’instance d’une classe dans un contexte donnée soit une classe dans un autre contexte.
+Le meta-modeling, consiste à pouvoir être capable de considérer qu’un élément qui est l’instance d’une classe dans un contexte donnée puisse être une classe dans un autre contexte.  
+
 C’est une exigence forte dans les modèles d’architecture d’entreprise dans lesquels une sous-parti du modèle est en fait dévolu à la génération des modèles que doit gérer l’entreprise.
-(Ça permet aussi de passer en douceur d’une « taxonomy » à une « ontology »)
 
 Avantage
 -
@@ -13,8 +13,11 @@ Permet une transition "en douceur" d'_une taxomonie vers une ontologie_
 
 Situation emblématique
 -
+__Cas de l'architecture d'entreprise__
+C’est une exigence forte dans les modèles d’architecture d’entreprise dans lesquels une sous-parti du modèle est en fait dévolu à la génération des modèles que doit gérer l’entreprise. (Cf cas d'usage ci-après)
 
-
+__Cas l'ontologie <a href="http://virtual-assembly.org/ontologies/pair/index-fr.html">PAIR</a>__
+Dans cette ontologie, il a été décidé de traiter les organisations à un niveau relativement générique 
 
 Cas d'usage
 -
