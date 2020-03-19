@@ -51,3 +51,7 @@ En Bref
 * __Multi-Typage__ : Permet à une même  "chose" d’être à la fois de TYPE 1 & de TYPE 2 (voire même de plusieurs TYPES)
 * __Meta-Modelisation__ : Permet à une même "chose" d’être à la fois une ITEM & un TYPE
 
+Pour aller plus loin ...
+-
+Cliquer sur les liens de chaque fonctionalité dans le tableau ci-dessus.  
+(WORK IN PROCESS ...)
