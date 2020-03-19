@@ -2,7 +2,7 @@
 Killer-Features
 ==
 
-Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">paradigdmes</a> de modélisation ont souvent tendance à "cloisoner" les CHOSES ...   
+Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">paradigmes</a> de modélisation ont souvent tendance à "cloisoner" les CHOSES ...   
 ... en faisant appartenir chaque CHOSE du modèle à une catégorie bien défini sans lui laisser la possibilité d'appratenir à une autre catégorie !
 
 L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi : c'est pourquoi les 3 fonctionalités suivantes peuven têtre considérer comme des "killer-features" :
