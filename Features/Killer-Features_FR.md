@@ -5,7 +5,7 @@ Killer-Features
 Preambule
 -
 Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">paradigmes</a> de modélisation ont souvent tendance à "cloisonner" les __"choses"__ ...   
-... en faisant appartenir chaque __"chose"__ du modèle à une catégorie bien définie.
+... en faisant appartenir chaque __"chose"__ du modèle à une catégorie bien définie.   
 (Sans lui laisser la possibilité d'appartenir à une autre catégorie).  
 
 L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi !
