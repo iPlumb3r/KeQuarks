@@ -47,7 +47,7 @@ Il est vraiment domage que ces fonctionalités soient la plus part du temps cons
 
 En Bref 
 -
-* Réification des liens : Permet à une même "chose" d’être à la fois un ITEM & un LINK
-* Multi-Typage : Permet à une même  "chose" d’être à la fois de TYPE 1 & de TYPE 2 (voire même de plusieurs TYPES)
-* Meta-Modelisation : Permet à une même "chose" d’être à la fois une ITEM & un TYPE
+* __Réification des liens__ : Permet à une même "chose" d’être à la fois un ITEM & un LINK
+* __Multi-Typage__ : Permet à une même  "chose" d’être à la fois de TYPE 1 & de TYPE 2 (voire même de plusieurs TYPES)
+* __Meta-Modelisation__ : Permet à une même "chose" d’être à la fois une ITEM & un TYPE
 
