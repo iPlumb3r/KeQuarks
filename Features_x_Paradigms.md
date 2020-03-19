@@ -21,9 +21,9 @@ This table allows to show if given killer-<a href="https://github.com/iPlumb3r/K
     <tbody>
         <tr>
             <td>BORO</td>
-            <td>???</td>
-            <td>???</td>
-            <td>???</td>
+            <td>Waiting for Chris P.</td>
+            <td>Waiting for Chris P.</td>
+            <td>Waiting for Chris P.</td>
         </tr>
         <tr>
             <td>KL Meta-Model</td>
