@@ -30,7 +30,7 @@ ID Card
         </tr>
           <tr>
             <td>Resource</td>
-            <td>Book : <a href="https://en.wikipedia.org/wiki/BORO/">Business Objects : Re-Engineering For Re-Use</a></td>
+            <td>Book : <a href="http://borosolutions.net/sites/default/files/Business%20Objects%20-%20Re-Engineering%20for%20Re-Use%20%283rd%20Ed%20-%20early%20draft%20-%2020140927%29.pdf">Business Objects : Re-Engineering For Re-Use</a></td>
         </tr>
     </tbody>
 </table>
