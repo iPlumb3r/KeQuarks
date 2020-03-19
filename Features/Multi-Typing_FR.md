@@ -14,8 +14,8 @@ OWL le supporte "en théorie", mais "en pratique" les outils OWL-Compliants ne p
 
 Avantage par rapport à l'héritage multiple
 -
-Il est parfois possible de contourner le besoin de multi-typing (car non supporté par tous les paradigmes de modélisation et/ou les outils associés) par de l'héritage multiple de classe ...    
-... mais ce "contournement" n'est possible que dans un nombre limité de cas, car il ne permet pas de faire face à l'explosion combinatoire des classes.
+Il est parfois possible de contourner le besoin de __typage multiple__ (car non supporté par tous les paradigmes de modélisation et/ou les outils associés) par de l'__héritage multiple de classes__ ...    
+... mais ce "contournement" n'est utilisable que dans un nombre limité de cas, car il ne permet pas de faire face à l'_explosion combinatoire des classes_.
 
 __Example__ :
 Si l'on doit traiter une situation qui nécessite de manipuler des ITEMS/Individus sont potentiellement caractérisés dans un "espace" constitué de 5 TYPES/Classes intentionels & 30 TYPES/Classes extentionels, alors :
