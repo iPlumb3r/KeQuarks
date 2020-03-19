@@ -23,7 +23,7 @@ Il est parfois possible de contourner le besoin de __typage multiple__ (car non 
 __Example__ :
 Si l'on doit traiter une situation qui nécessite de manipuler des ITEMS/Individus qui sont potentiellement caractérisés dans un "espace" constitué de 5 TYPES/Classes intentionels & 30 TYPES/Classes extentionels, alors :
 * La solution "héritage multiple" nécessaitera 150 TYPES/Classes
-* Là, oû le "typage multiple" ne requiera que 35 TYPES/Classes
+* Là, où le "typage multiple" ne requiera que 35 TYPES/Classes
 
 Cas d'usage
 -
