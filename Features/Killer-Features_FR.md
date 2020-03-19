@@ -20,7 +20,7 @@ L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi : c'
         <tr>
             <td>Reification des liens</td>
             <td>Chaque #1 (Tuple) est aussi un #0 (Topic)</td>
-            <td></td>
+            <td>Cela permet de "dire des choses" sur des liens</td>
         </tr>
         <tr>
             <td>Multi-Typage</td>
@@ -30,7 +30,7 @@ L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi : c'
         <tr>
             <td>Meta-Modelisation</td>
             <td>Une chose peut être un  #0 (Topic) dans un contexte ET un #2 (Type) dans un autre contexte</td>
-            <td></td>
+            <td>Cela permet une transition douce entre Taxonomies et Ontologies</td>
         </tr>
     </tbody>
 </table>
