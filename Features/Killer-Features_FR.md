@@ -45,6 +45,12 @@ C'est pourquoi les 3 fonctionalités suivantes peuvent être considérées comme
 Il est vraiment domage que ces fonctionalités soient la plus part du temps considérées comme des fonctionnalités "avancées" ...   
 ... alors qu'il s'agit en fait du _minimun vital_ pour pouvoir construire des bases de connaissances en phase avec la réalité !!!
 
+Labels préférés
+-
+Pour cette section les labels préférés utilisés sont les suivants :
+* #0 (Topic) : ITEM/Individu
+* #1 (Tuple) : LINK/Statement
+* #2 (Type) : TYPE/Classe
 
 En Bref !
 -
