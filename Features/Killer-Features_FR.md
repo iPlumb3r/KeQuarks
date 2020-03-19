@@ -54,9 +54,9 @@ Pour cette section les labels préférés utilisés sont les suivants :
 
 En Bref !
 -
-* __Réification des liens__ : Permet à une même "chose" d’être à la fois un ITEM & un LINK
-* __Typage multiple__ : Permet à une même  "chose" d’être à la fois de TYPE 1 & de TYPE 2 (voire même de plusieurs TYPES)
-* __Meta-Modelisation__ : Permet à une même "chose" d’être à la fois une ITEM & un TYPE
+* __Réification des liens__ : Permet à une même "chose" d’être à la fois un LINK/Statement & un ITEM/individu
+* __Typage multiple__ : Permet à une même  "chose" d’être à la fois de TYPE/Classe A & de TYPE/Classe B (voire même d'autre TYPES/Classes)
+* __Meta-Modelisation__ : Permet à une même "chose" d’être à la fois un ITEM/Individu & un TYPE/Classe
 
 Pour aller plus loin ...
 -
