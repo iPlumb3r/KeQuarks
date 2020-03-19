@@ -32,7 +32,7 @@ Ci-après 3 cas d'usage qui montre l'importance du typage multiple pour une bonn
 __Application de gestion de cycle de vie des produits de l'entreprise.__.      
 Ici chaque "produit" doit être bi-typé :
 * Par Intention : i.e. En fonction de la finalité du produit (ici "être conçu")
-* Par Extension : .e. En fonction de la nature du produit (ici un "pneu")
+* Par Extension : i.e. En fonction de la nature du produit (ici un "pneu")
 > NB : Chaque appartenance à un type permet d'apporter au produit les propriétés qui lui sont propres ...
 
 ![Classification](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Multi-Typing_Classification.png)
