@@ -15,7 +15,7 @@ Cas d'usage
 
 Ci-après 3 cas d'usage qui montre l'importance du typage multiple
 
-Application de gestion de cycle de vie des produits de l'entreprise.    
+__Application de gestion de cycle de vie des produits de l'entreprise.__.      
 Ici chaque "produit" doit être bi-typé :
 * Par Intention : Quelle est la finalité du produit (ici "être conçu")
 * Par Extension : Quelle est la nature du produit (ici un "pneu")
@@ -24,13 +24,13 @@ Ici chaque "produit" doit être bi-typé :
 ![Classification](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Multi-Typing_Classification.png)
 
 
-Application "ressource humaine" de mise en relation de postes VS profils
+__Application "ressource humaine" de mise en relation de postes VS profils.__.  
 Ici chaque "acteur" est potentiellement multi-typé :
 > NB : Chaque appartenance à un type permet d'apporter au produit les propriétés qui lui sont propres ...
 
 ![Roles](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Multi-Typing_Roles.png)
 
-Application de cartographie d'écosysteme 
+__Application de cartographie d'écosystème(s).__.  
 Ici tous les éléments de la "carte" appartiennent potentiellement à 1 type intentionel et 1 type extensionel
 
 ![E2M](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Muti-Typing_EcosystemMapping.png)
