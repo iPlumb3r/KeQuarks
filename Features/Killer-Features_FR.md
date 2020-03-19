@@ -64,4 +64,4 @@ En Bref !
 
 Pour aller plus loin ...
 -
-Cliquer sur les liens de chaque fonctionalité dans le tableau ci-dessus.
+Cliquer sur le lien associé à chaque fonctionalité dans le tableau ci-dessus.
