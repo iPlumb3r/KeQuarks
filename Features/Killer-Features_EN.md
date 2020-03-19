@@ -7,7 +7,7 @@ Modeling paradigms often tend to "compartmentalize" the __"things"__ ...
 ... by making each __"thing"__ in the model belong to a well-defined category.   
 (Without allowing it to belong to another category).  
 
-Experience shows that it is not good practice to do this!
+Experience shows that it is not good practice to do this !
 
 What are they ?
 -
