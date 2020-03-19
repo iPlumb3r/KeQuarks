@@ -21,7 +21,7 @@ Ici chaque produit doit être typer :
 * Par Extension : Quelle est la nature du produit (ici un "pneu")
 > NB : Chaque appartenance à un type permet d'apporter au produit les propriétés qui lui son propre ...
 
-![Classification]https://github.com/iPlumb3r/KeQuarks/blob/master/images/Multi-Typing_Classification.png)
+![Classification](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Multi-Typing_Classification.png)
 
 
 Application "ressource humaine" de mise en relation de postes VS profils
