@@ -18,7 +18,7 @@ Situation emblématique
 
 Cas d'usage
 -
-Dans le contexte d'un (meta-)modèle d'architecture d'entreprise (EA), il est - quasi-systématiquement - nécessaire de piloter les modèles métier de l'enprise à partir d'une sous-partie de ce (méta-)modèle consitué du TYPE/Classe "Business Object".
+Dans le contexte d'un (meta-)modèle d'architecture d'entreprise (EA), il est - quasi-systématiquement - nécessaire de piloter les modèles métiers de l'entreprise à partir d'une sous-partie de ce (méta-)modèle consitué du TYPE/Classe - nommé dans l'illustration ci-après - "Business Subject".
 
 Et bien, les éléments typés par ce TYPE/Classe sont bien des ITEMS/Instances dans le __contexte du (méta-)modèle d'EA__ ...   
 ... mais ce sont - également - des TYPES/Classes dans le __contexte du modèle métier__ dont ils font partis !
