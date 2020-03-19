@@ -16,7 +16,7 @@ Avantage
 -
 Permet de faire face à l'_explosion combinatoire des classes_.
 
-__Explication__
+__Explication__ : 
 Il est parfois possible de contourner le besoin de __typage multiple__ (car non supporté par tous les paradigmes de modélisation et/ou les outils associés) par de l'__héritage multiple de classes__ ...    
 ... mais ce "contournement" n'est utilisable que dans un nombre limité de cas, car il ne permet pas de faire face à l'_explosion combinatoire des classes_.
 
