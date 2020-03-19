@@ -13,14 +13,14 @@ Permet une transition "en douceur" d'_une taxomonie vers une ontologie_
 
 Situation emblématique
 -
-__Cas de l'architecture d'entreprise__. 
-C’est une exigence forte dans les modèles d’architecture d’entreprise dans lesquels une sous-parti du modèle est en fait dévolu à la génération des modèles que doit gérer l’entreprise. (Cf cas d'usage ci-après)
-
 __Cas l'ontologie <a href="http://virtual-assembly.org/ontologies/pair/index-fr.html">PAIR</a>__.  
 Dans cette ontologie, il a été décidé de traiter le TYPE/Classe #Organization à un niveau relativement générique ne faisant pas la disctinction par exemple entre une société, une association ou une université ...  
 Il s'agit d'un choix "by design" qui nécessite en // de disposer une d'un TYPE/Classe #OrganizationType dont les éléments sont des ITEMS/Individus (Société, Association, Université, ...).  
 Si l'on devrait faire évoluer le modèle PAIR pour traiter de problématique lié à l'enseigement, il faudrait sans doute pouvoir faire en sorte que Université ne soit plus "seulement" un ITEM/Individu du TYPE/Class #OrganizationType, mais devienne le TYPE/Classe #University à part entière, avec ses propres PROPERTY & LINK
 => Or cela est quasi-impossible en OWL, en tout cas pas sans "casser" le modèle !!!
+
+__Cas de l'architecture d'entreprise__. 
+C’est une exigence forte dans les modèles d’architecture d’entreprise dans lesquels une sous-parti du modèle est en fait dévolu à la génération des modèles que doit gérer l’entreprise. (Cf cas d'usage ci-après)
 
 Cas d'usage
 -
