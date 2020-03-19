@@ -31,4 +31,4 @@ To be able to start a knowledge base linking the TYPES/Classes #Person & #Organi
    And all this, without NEVER having to "break" the initial model...    
    ...BUT just by making it "evolve smoothly", according to new needs. 
    
-   Needless to say that for this functionality, the use cases are numerous ;-)__ 
+   __Needless to say that for this functionality, the use cases are numerous ;-)__ 
