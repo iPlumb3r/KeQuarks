@@ -1,4 +1,4 @@
-Reification of links
+Link reification
 ==
 
 Definition
