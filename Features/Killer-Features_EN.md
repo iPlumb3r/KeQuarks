@@ -29,12 +29,12 @@ That's why the 3 following features can be considered as "killer-features", beca
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md">Multi-Typing</a></td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_EN.md">Multi-Typing</a></td>
             <td>Each #0 (Topic) could be classified by several #2 (Type)</td>
             <td>All differents complementary views on the same Knowledge Base</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Meta-Modeling_FR.md">Meta-Modeling</a></td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Meta-Modeling_EN.md">Meta-Modeling</a></td>
             <td>A same things could be #0 (Topic) in a context and a #2 (Type) in another context</td>
             <td></td>
         </tr>
