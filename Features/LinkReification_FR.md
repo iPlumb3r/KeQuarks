@@ -21,3 +21,12 @@ Or, dans de nombreux cas de figure on voudrait ne pas avoir à se poser se type 
 
 Cas d'usage
 -
+Pourvoir commencer une base de connaissances mettant en relation les TYPES/Classes #Person & #Organization selon un modèle relativement simple permettant de savoir quelle #Organization affilie quelle #Person ...   
+... puis pouvoir le faire évoluer vers un modèle plus complexe où l'on pourrait ensuite savoir (par exemple) :
+   - la date d'affiliation
+   - le role de la personne dans l'organisation
+   - son mode de contrtribution 
+   - ...
+   
+   Et tout cela, sans avoir jamais à "casser" le modèle ...
+   ...mais juste à le faire "évoluer en douceur", en fonctione des besoins nouveaux 
