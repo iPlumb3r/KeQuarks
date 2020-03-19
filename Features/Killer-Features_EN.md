@@ -24,22 +24,23 @@ That's why the 3 following features can be considered as "killer-features", beca
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/LinkReification_FR.md">Réification des liens</a></td>
-            <td>Chaque #1 (Tuple) est aussi un #0 (Topic)</td>
-            <td>Cela permet de "dire des choses" sur des liens</td>
+            <td>Relation reification</td>
+            <td>Each #1 (Tuple) is also a #0 (Topic)</td>
+            <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Multi-Typing_FR.md">Typage multiple</a></td>
-            <td>Chaque #0 (Topic) peut être classifié/catégorisé par plusieurs #2 (Type)</td>
-            <td>Cela permet d'avoir des vues différentes et complémentaires sur la même base de connaissances</td>
+            <td>Multi-Typing</td>
+            <td>Each #0 (Topic) could be classified by several #2 (Type)</td>
+            <td>All differents complementary views on the same Knowledge Base</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Meta-Modeling_FR.md">Méta-Modélisation</a></td>
-            <td>Une chose peut être un  #0 (Topic) dans un contexte ET un #2 (Type) dans un autre contexte</td>
-            <td>Cela permet une transition douce entre Taxonomies et Ontologies</td>
+            <td>Meta-Modeling</td>
+            <td>A same things could be #0 (Topic) in a context and a #2 (Type) in another context</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
+
 
 It's really a shame that these features are mostly considered as "advanced" features ...   
 ... whereas they are in fact the _minimun vital_ to be able to build knowledge bases in phase with reality !!!
