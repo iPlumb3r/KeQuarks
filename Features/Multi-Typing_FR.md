@@ -1,19 +1,31 @@
 Typage multiple
 ==
 
-A compléter ...
-
 Définition
 -
+Le multi-typing, consiste en le fait qu’un ITEM/Individu puisse appartenir à 2 (ou plusieurs) TYPES/Classes en même temps.     
+> Il s'agit d'une fonctionalité qui devient très vite nécessaire dès que le domaine de connaissances deviens un peu "trapu".
 
-Situation emplématique
+Quid de OWL ?
 -
+OWL le supporte, mais les outils OWL-Compliants ne propose généralement : 
+   - ni d’IHM adapté pour traiter cela
+   - ni fonction de réconciliation en cas de changement de type (= traitement des "statements" qui ont été ajoutés dans le contexte d'un type, mais qui pourrait ne plus avoir de sens en cas de changement de type)
 
+Avantage par rapport à l'héritage multiple
+-
+Il est parfois possible de contourner le besoin de multi-typing (car non supporté par tous les paradigmes de modélisation et/ou les outils associés) par de l'héritage multiple de classe ...    
+... mais ce "contournement" n'est possible que dans un nombre limité de cas, car il ne permet pas de faire face à l'explosion combinatoire des classes.
+
+__Example__ :
+Si l'on doit traiter une situation qui nécessite de manipuler des ITEMS/Individus sont potentiellement caractérisés dans un "espace" constitué de 5 TYPES/Classes intentionels & 30 TYPES/Classes extentionels, alors :
+* La solution "héritage multiple" nécessaitera 150 TYPES/Classes
+* Là, oû le "typage multiple" ne requiera que 35 TYPES/Classes
 
 Cas d'usage
 -
 
-Ci-après 3 cas d'usage qui montre l'importance du typage multiple
+Ci-après 3 cas d'usage qui montre l'importance du typage multiple pour une bonne représentation de la réalité du terrain ...  
 
 __Application de gestion de cycle de vie des produits de l'entreprise.__.      
 Ici chaque "produit" doit être bi-typé :
