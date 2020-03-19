@@ -35,7 +35,7 @@ Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">Concept<
     </tbody>
 </table>
 
-Il est vraiment domage que ces fonctionalités soient la plus pat du temps considérées comme des fonctionnalités "avancés" ...   
-... alors qu'il s'agit en fait du minimun vital pour pouvoir construire des bases de connaissances en phase avec la réalité !!!
+Il est vraiment domage que ces fonctionalités soient la plus part du temps considérées comme des fonctionnalités "avancées" ...   
+... alors qu'il s'agit en fait du _minimun vital_ pour pouvoir construire des bases de connaissances en phase avec la réalité !!!
 
 
