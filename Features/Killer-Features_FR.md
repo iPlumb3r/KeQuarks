@@ -39,3 +39,8 @@ Il est vraiment domage que ces fonctionalités soient la plus part du temps cons
 ... alors qu'il s'agit en fait du _minimun vital_ pour pouvoir construire des bases de connaissances en phase avec la réalité !!!
 
 
+En résumé :
+* Réification des liens : Permet à une même "chose" d’être à la fois un ITEM & un LINK
+* Multi-Typage : Permet à une même  "chose" d’être à la fois de TYPE 1 & de TYPE 2 (voire même de plusieurs TYPES)
+* Meta-Modelisation : Permet à une même "chose" d’être à la fois une ITEM & un TYPE
+
