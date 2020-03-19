@@ -12,7 +12,7 @@ L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi !
 
 Zen Sentence
 -
-“People normally cut reality into compartments, and so are unable to see the interdependence of all phenomena. To see one in all and all in one is to break through the great barrier which narrows one's perception of reality..” ― Thich Nhat Hanh (Zen Master)
+“People normally cut reality into compartments, and so are unable to see the interdependence of all phenomena. To see one in all and all in one is to break through the great barrier which narrows one's perception of reality.” ― Thich Nhat Hanh (Zen Master)
 
 Quelle sont-elles ?
 -
