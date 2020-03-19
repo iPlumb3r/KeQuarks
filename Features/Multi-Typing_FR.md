@@ -14,7 +14,7 @@ OWL le supporte "en théorie", mais "en pratique" les outils OWL-Compliant ne pr
 
 Avantage
 -
-Permet pas de faire face à l'_explosion combinatoire des classes_.
+Permet de faire face à l'_explosion combinatoire des classes_.
 
 __Explication__
 Il est parfois possible de contourner le besoin de __typage multiple__ (car non supporté par tous les paradigmes de modélisation et/ou les outils associés) par de l'__héritage multiple de classes__ ...    
