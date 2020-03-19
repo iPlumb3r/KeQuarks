@@ -1,7 +1,7 @@
 Features
 ==
 
-This section is all about which Features could be proposed by :
+This section is all about which Features could be :
 *  proposed by some <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">Concept patterns</a> 
 *  supported by each <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">Paradigms</a> 
 
