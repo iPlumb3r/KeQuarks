@@ -9,7 +9,7 @@ Le multi-typing, consiste en le fait qu’un ITEM/Individu puisse appartenir à 
 Quid de OWL ?
 -
 OWL le supporte "en théorie", mais "en pratique" les outils OWL-Compliants ne propose généralement : 
-   - ni d’IHM adapté pour traiter cela
+   - ni d’IHM adaptée pour traiter cette fonctionalité
    - ni fonction de réconciliation en cas de changement de type (= traitement des "statements" qui ont été ajoutés dans le contexte d'un type, mais qui pourrait ne plus avoir de sens en cas de changement de type)
 
 Avantage par rapport à l'héritage multiple
