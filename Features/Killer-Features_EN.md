@@ -9,6 +9,10 @@ Modeling paradigms often tend to "compartmentalize" the __"things"__ ...
 
 Experience shows that it is not good practice to do this !
 
+Zen Sentence
+-
+“People normally cut reality into compartments, and so are unable to see the interdependence of all phenomena. To see one in all and all in one is to break through the great barrier which narrows one's perception of reality..” ― Thich Nhat Hanh
+
 What are they ?
 -
 That's why the 3 following features can be considered as "killer-features", because they participate in the "decompartmentalization" of the models:   
