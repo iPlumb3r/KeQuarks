@@ -12,8 +12,11 @@ OWL le supporte "en théorie", mais "en pratique" les outils OWL-Compliant ne pr
    - ni d’IHM adaptée pour traiter cette fonctionalité
    - ni fonction de réconciliation en cas de changement de classe (= traitement des "statements" qui ont été ajoutés en mode "ontology-driven" dans le contexte d'un classe, mais qui pourrait ne plus avoir de sens en cas de changement de classe)
 
-Avantage par rapport à l'héritage multiple
+Avantage
 -
+Permet pas de faire face à l'_explosion combinatoire des classes_.
+
+__Explication__
 Il est parfois possible de contourner le besoin de __typage multiple__ (car non supporté par tous les paradigmes de modélisation et/ou les outils associés) par de l'__héritage multiple de classes__ ...    
 ... mais ce "contournement" n'est utilisable que dans un nombre limité de cas, car il ne permet pas de faire face à l'_explosion combinatoire des classes_.
 
