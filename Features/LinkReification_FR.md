@@ -3,7 +3,7 @@ Réification des liens
 
 Définition
 -
-Le mécanisme de réification d'un LINK/Statement entre 2 (ou plusieurs) ITEMS/Individuals consiste à considérer ce LINK/Statement - également - comme un ITEM/Individual.   
+Le __mécanisme de réification__ d'un LINK/Statement entre 2 (ou plusieurs) ITEMS/Individuals consiste à considérer ce LINK/Statement - également - comme un ITEM/Individual.   
 De facto, il peut donc - à son tour - être engagé dans 1 (ou plusieurs) autre(s) LINK(S)/Statement(s) !
 
 Situation emblématique
