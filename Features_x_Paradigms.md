@@ -45,7 +45,7 @@ This table allows to show if given killer-<a href="https://github.com/iPlumb3r/K
         </tr>
         <tr>
             <td>Grakn</td>
-            <td>MUH (Need to be planned via N-Ary Relations)</td>
+            <td>MUH (Need to be planned via N-Ary Relation Types)</td>
             <td>NO</td>
             <td>MUH (Via Inference Rules)</td>
         </tr>
