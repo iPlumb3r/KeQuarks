@@ -5,8 +5,8 @@ Killer-Features
 Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">paradigmes</a> de modélisation ont souvent tendance à "cloisoner" les CHOSES ...   
 ... en faisant appartenir chaque CHOSE du modèle à une catégorie bien défini sans lui laisser la possibilité d'appartenir à une autre catégorie !
 
-L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi : c'est pourquoi les 3 fonctionalités suivantes peuvent être considérées comme des "killer-features", car elles participent au "décloisonement" des modèles :
-Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">Concept</a> référencés dans le tableau ci-après sont identifié avec un ID son significatif.
+L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi : c'est pourquoi les 3 fonctionalités suivantes peuvent être considérées comme des "killer-features", car elles participent au "décloisonement" des modèles :   
+(Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">Concept</a> référencés dans le tableau ci-après sont identifiés avec un ID son significatif)
 
 <table>
     <thead>
