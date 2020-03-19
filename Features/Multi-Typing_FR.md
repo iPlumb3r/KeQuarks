@@ -3,7 +3,7 @@ Typage multiple
 
 Définition
 -
-Le multi-typing, consiste en le fait qu’un ITEM/Individu puisse appartenir à 2 (ou plusieurs) TYPES/Classes en même temps.     
+Le __typage multiple__ consiste en le fait qu’un ITEM/Individu puisse _appartenir à 2 (ou plusieurs) TYPES/Classes en même temps_.     
 > Il s'agit d'une fonctionalité qui devient très vite nécessaire dès que le domaine de connaissances deviens un peu "trapu".
 
 Quid de OWL ?
