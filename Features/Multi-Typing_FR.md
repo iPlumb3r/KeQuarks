@@ -24,7 +24,6 @@ Si l'on doit traiter une situation qui nécessite de manipuler des ITEMS/Individ
 
 Cas d'usage
 -
-
 Ci-après 3 cas d'usage qui montre l'importance du typage multiple pour une bonne représentation de la réalité du terrain ...  
 
 __Application de gestion de cycle de vie des produits de l'entreprise.__.      
