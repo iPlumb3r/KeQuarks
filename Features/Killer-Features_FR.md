@@ -2,10 +2,16 @@
 Killer-Features
 ==
 
+Preambule
+-
 Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">paradigmes</a> de modélisation ont souvent tendance à "cloisoner" les CHOSES ...   
-... en faisant appartenir chaque CHOSE du modèle à une catégorie bien défini sans lui laisser la possibilité d'appartenir à une autre catégorie !
+... en faisant appartenir chaque "chose" du modèle à une catégorie bien défini sans lui laisser la possibilité d'appartenir à une autre catégorie.
 
-L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi : c'est pourquoi les 3 fonctionalités suivantes peuvent être considérées comme des "killer-features", car elles participent au "décloisonement" des modèles :   
+L'expérience montre que ce n'est pas une bonne pratique de procéder ainsi !
+
+Quelle sont-elles ?
+-
+C'est pourquoi les 3 fonctionalités suivantes peuvent être considérées comme des "killer-features", car elles participent au "décloisonement" des modèles :   
 (Les <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">Concept</a> référencés dans le tableau ci-après sont identifiés avec un ID son significatif)
 
 <table>
@@ -39,7 +45,8 @@ Il est vraiment domage que ces fonctionalités soient la plus part du temps cons
 ... alors qu'il s'agit en fait du _minimun vital_ pour pouvoir construire des bases de connaissances en phase avec la réalité !!!
 
 
-En résumé :
+En Bref 
+-
 * Réification des liens : Permet à une même "chose" d’être à la fois un ITEM & un LINK
 * Multi-Typage : Permet à une même  "chose" d’être à la fois de TYPE 1 & de TYPE 2 (voire même de plusieurs TYPES)
 * Meta-Modelisation : Permet à une même "chose" d’être à la fois une ITEM & un TYPE
