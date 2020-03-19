@@ -3,7 +3,7 @@ Meta-Modelisation
 
 Définition
 -
-La __meta-modélisation__, consiste à pouvoir être capable de considérer qu’un élément qui est l’ITEM/Individu d’un TYPE/Classe dans un contexte donné puisse être un TYPE/Classe dans un autre contexte.  
+La __meta-modélisation__, consiste à pouvoir être capable de considérer qu’un élément qui est l’ITEM/Individu d’un TYPE/Classe _dans un contexte donné_ puisse être un TYPE/Classe _dans un autre contexte_.  
 
 Avantage
 -
