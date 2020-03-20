@@ -9,7 +9,7 @@ De facto, it can thus - in turn - be engaged in 1 (or more) other LINK(s)/Statem
 Emblematic situation
 -
 __Example in OWL__ :   
-If one establishes a relationship "employed by" between an individual of the Class #Person and an individual of the Class #Company, then one cannot say anything about this relationship (because it was modeled by a pair of ObjectProperties that are inverse to each other)!   
+If one establishes a relationship "employed by" between an individual of the Class #Person and an individual of the Class #Company, then one cannot say anything about this relationship (because it was modeled by a pair of ObjectProperties that are inverse to each other) !   
 
 Unless, of course, we have anticipated this when designing the model and have modeled this relationship by a Class that connects to the Class #Person on the one hand and the Class #Company on the other hand.   
 
@@ -17,7 +17,7 @@ In a relatively large model with a large number of Classes (and especially Relat
 
 However, in many cases, we would like to avoid this type of question and make sure that relationships can "evolve" (i.e. to be able to model them simply at the beginning, and then to be able to say things about them later on if the need arises).
 
-=> However, this is IMPOSSIBLE in OWL, because in order to do so, you have to break the initial modeling!!
+=> However, this is IMPOSSIBLE in OWL, because in order to do so, you have to break the initial modeling !!
 
 Use case
 -
