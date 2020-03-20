@@ -47,7 +47,7 @@ C'est pourquoi les 3 fonctionalités suivantes peuvent être considérées comme
 </table>
 
 Il est vraiment domage que ces fonctionalités soient la plus part du temps considérées comme des fonctionnalités "avancées" ...   
-... alors qu'il s'agit en fait du _minimun vital_ pour pouvoir construire des bases de connaissances en phase avec la réalité !!!
+... alors qu'il s'agit en fait du _minimum vital_ pour pouvoir construire des bases de connaissances en phase avec la réalité !!!
 
 Labels préférés
 -
