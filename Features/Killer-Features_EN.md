@@ -47,7 +47,7 @@ That's why the 3 following features can be considered as "killer-features", beca
 
 
 It's really a shame that these features are mostly considered as "advanced" features ...   
-... whereas they are in fact the _minimun vital_ to be able to build knowledge bases in phase with reality !!!
+... whereas they are in fact the _minimum vital_ to be able to build knowledge bases in phase with reality !!!
 
 Preferred labels
 -
