@@ -4,7 +4,7 @@ Link reification
 Definition
 -
 The __reification mechanism__ of a LINK/Statement between 2 (or more) ITEMS/Individuals consists in considering this LINK/Statement - also - as an ITEM/Individual.   
-De facto, it can thus - in turn - be engaged in 1 (or more) other LINK(s)/Statement(s)!
+De facto, it can thus - in turn - be engaged in 1 (or more) other LINK(s)/Statement(s) !
 
 Emblematic situation
 -
