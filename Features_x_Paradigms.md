@@ -1,7 +1,7 @@
 Features x Paradigms
 ==
 
-How paradigms deals with killer-features ?
+How paradigms deals with <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features/Killer-Features_FR.md">killer-features</a> ?
 -
 
 This table allows to show if given killer-<a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Features">Feature</a> is provided or not by a given <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">Paradigm</a> :
