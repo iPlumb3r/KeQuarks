@@ -2,6 +2,8 @@
 KeQuarks
 ==
 
+Initiative ID Card
+-
 
 <table>
     <thead>
@@ -25,7 +27,8 @@ KeQuarks
     </tbody>
 </table>
 
-
+Introduction
+-
 __KeQuarks__ is the develiverable of the _"holy grail" quest_ for __Knowledge Engineering "Elementary Particles"__ ;-)
 
 The goal of this initiative is to identify and define __relevant__ Concepts & (Meta)-Models for designing __poweful__ Model(s).
