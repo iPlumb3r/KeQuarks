@@ -17,7 +17,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     <tbody>
         <tr>
             <th>Initiative/Project</th>
-            <td>"Holy Grail" quest for Knowledge Engineering "Elementary Particles" (HGQ-4-KEEP)</td>
+            <td>"Holy Grail" Quest for Knowledge Engineering "Elementary Particles" (HGQ-4-KEEP)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>
         </tr>
         <tr>
