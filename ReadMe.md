@@ -32,12 +32,12 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         </tr>
         <tr>
             <th>Where Used</th>
-            <td>Th3Sr1b3Pr0j3ct (Onto-Terminology)</td>
+            <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a> (Onto-Terminology)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
         </tr>
         <tr>
             <th>Where Used</th>
-            <td>Prism (Semantic Cartography)</td>
+            <td><a href="https://github.com/iPlumb3r/Prism">Prism</a> (Semantic Cartography)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1676">#1676</a></td>
         </tr>
     </tbody>
