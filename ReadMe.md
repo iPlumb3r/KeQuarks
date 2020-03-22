@@ -17,7 +17,7 @@ Initiative ID Card
         <tr>
             <th>Initiative/Project</th>
             <td>"Holy Grail" quest for Knowledge Engineering "Elementary Particles" (HGQ-4-KEEP)</td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a>KeQuaks (Meta-)Model</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>
         </tr>
         <tr>
             <th>Deliverable</th>
