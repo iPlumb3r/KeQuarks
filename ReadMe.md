@@ -42,7 +42,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         </tr>
         <tr>
             <th>Big Picture</th>
-            <td><a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a>. <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>
+            <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a>. See <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
         </tr>
     </tbody>
