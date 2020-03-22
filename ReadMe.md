@@ -4,6 +4,7 @@ KeQuarks
 
 Initiative ID Card
 -
+_Note : EBR ID allows to semantically navigate in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
 
 <table>
     <thead>
