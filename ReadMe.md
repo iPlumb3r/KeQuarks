@@ -8,20 +8,17 @@ Initiative ID Card
 <table>
     <thead>
         <tr>
-            <th></th>
-            <th>Iniative/Project</th>
-            <th>Deliverable</th>
+            <th>Label</th>
+            <th>EBR ID</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Label</td>
             <td>"Holy Grail" quest for Knowledge Engineering "Elementary Particles" (HGQ-4-KEEP)</td>
-            <td>KeQuaks (Meta-)Model</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a>KeQuaks (Meta-)Model</td>
         </tr>
         <tr>
-            <td>EBR ID</td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1682">#1682</a></td>
+            <td>KeQuaks (Meta-)Model</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>
         </tr>
     </tbody>
