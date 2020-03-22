@@ -31,14 +31,19 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <td>N/A</td>
         </tr>
         <tr>
-            <th>Where Used</th>
+            <th>Used By</th>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a> (Onto-Terminology)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
         </tr>
         <tr>
-            <th>Where Used</th>
+            <th>Used By</th>
             <td><a href="https://github.com/iPlumb3r/Prism">Prism</a> (Semantic Cartography)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1676">#1676</a></td>
+        </tr>
+        <tr>
+            <th>Big Picture</th>
+            <td><a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a>. <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
         </tr>
     </tbody>
 </table>
