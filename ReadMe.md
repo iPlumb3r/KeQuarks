@@ -23,7 +23,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         <tr>
             <th>Deliverable</th>
             <td>KeQuaks (Meta-)Model</td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1682">#1682</a></td>
         </tr>
     </tbody>
 </table>
