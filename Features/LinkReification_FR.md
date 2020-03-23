@@ -23,7 +23,7 @@ Cas d'usage
 -
 3 cas d'usage principaux sont succeptibles d'exploiter avec profit le mécanisme de réification des liens :
 * L'évolution "douce" du modèle
-* Affinage de la sémantique des relations
+* L'affinage de la sémantique des relations
 * La gestion des méta-données
 
 
@@ -39,7 +39,7 @@ Pourvoir commencer une base de connaissances mettant en relation les TYPES/Class
    ...MAIS juste en le faisant "évoluer en douceur", en fonction des besoins nouveaux 
 
 
-__Affinage de la sémantique des relations :__.  
+__L'affinage de la sémantique des relations :__.  
 A compléter ...
 
 __La gestion des méta-données :__.  
