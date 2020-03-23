@@ -21,6 +21,13 @@ Or, dans de nombreux cas de figure on voudrait ne pas avoir à se poser se type 
 
 Cas d'usage
 -
+3 cas d'usage principaux sont succeptible d'exploiter avec profit le mécanisme de réification des liens :
+* L'évolution "douce" du modèle
+* Affinage de la sémantique des relations
+* La gestion des méta-données
+
+
+__Evolution "douce" du modèle :__
 Pourvoir commencer une base de connaissances mettant en relation les TYPES/Classes #Person & #Organization selon un modèle relativement simple permettant de savoir quelle #Organization affilie quelle #Person ...   
 ... puis pouvoir le faire évoluer vers un modèle plus complexe où l'on pourrait ensuite savoir (par exemple) :
    - la date d'affiliation de la #Person
@@ -30,5 +37,10 @@ Pourvoir commencer une base de connaissances mettant en relation les TYPES/Class
    
    Et tout cela, sans JAMAIS devoir "casser" le modèle initial ...    
    ...MAIS juste en le faisant "évoluer en douceur", en fonction des besoins nouveaux 
-   
-   __Inutile de préciser que pour cette fonctionnalité, les cas d'usage font légions ;-)__
+
+
+__Affinage de la sémantique des relations__
+A compléter ...
+
+__La gestion des méta-données__
+A compléter ...
