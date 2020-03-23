@@ -46,7 +46,7 @@ Avec un mécanisme de réification, il va pouvoir être possible d'afficher cett
 
 
 __La gestion des méta-données :__   
-L'idée de cas d'usage est de pouvoir - par exemple - enregistrre systématiquement :
+L'idée de cas d'usage est de pouvoir - par exemple - enregistrer systématiquement :
 * La date à laquelle une relation à été créer/modifié
 * L'utilisateur qui à créer cette relation
 * La justification dl'existance de cette relation 
