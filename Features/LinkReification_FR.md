@@ -27,7 +27,7 @@ Cas d'usage
 * La gestion des méta-données
 
 
-__Evolution "douce" du modèle :__
+__Evolution "douce" du modèle :__.  
 Pourvoir commencer une base de connaissances mettant en relation les TYPES/Classes #Person & #Organization selon un modèle relativement simple permettant de savoir quelle #Organization affilie quelle #Person ...   
 ... puis pouvoir le faire évoluer vers un modèle plus complexe où l'on pourrait ensuite savoir (par exemple) :
    - la date d'affiliation de la #Person
@@ -39,8 +39,8 @@ Pourvoir commencer une base de connaissances mettant en relation les TYPES/Class
    ...MAIS juste en le faisant "évoluer en douceur", en fonction des besoins nouveaux 
 
 
-__Affinage de la sémantique des relations__
+__Affinage de la sémantique des relations :__.  
 A compléter ...
 
-__La gestion des méta-données__
+__La gestion des méta-données :__.  
 A compléter ...
