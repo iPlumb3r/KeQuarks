@@ -21,7 +21,7 @@ Or, dans de nombreux cas de figure on voudrait ne pas avoir à se poser se type 
 
 Cas d'usage
 -
-3 cas d'usage principaux sont succeptibles d'exploiter avec profit le mécanisme de réification des liens :
+3 cas d'usage principaux sont succeptibles d'exploiter avec profit le __mécanisme de réification__ des liens :
 * L'évolution "douce" du modèle
 * L'affinage de la sémantique des relations
 * La gestion des méta-données
@@ -30,25 +30,25 @@ Cas d'usage
 ------------
 __Evolution "douce" du modèle :__    
 Pourvoir commencer une base de connaissances mettant en relation les TYPES/Classes #Person & #Organization selon un modèle relativement simple permettant de savoir quelle #Organization affilie quelle #Person ...   
-... puis pouvoir le faire évoluer vers un modèle plus complexe où l'on pourrait ensuite savoir (par exemple) :
+... puis pouvoir la faire évoluer vers un modèle plus complexe où l'on pourrait ensuite savoir (par exemple) :
    - la date d'affiliation de la #Person
    - le role de la #Person dans l'#Organisation
-   - son mode de contribution 
+   - le mode de contribution des #Person aux #Organization 
    - ...
    
    Et tout cela, sans JAMAIS devoir "casser" le modèle initial ...    
-   ...MAIS juste en le faisant "évoluer en douceur", en fonction des besoins nouveaux 
+   ...MAIS juste en le faisant "évoluer en douceur", en fonction des besoins nouveaux.  
 
 ------------
 __L'affinage de la sémantique des relations :__  
-Prennons en considération un modèle qui permet de mettre en relation des ITEMS/individus du TYPE/Classe #Product avec des ITEMS/Individus du TYPE/Classe #Function via une relation de sémantique "provides". 
-Sans mécanisme de réification, il sera nécessaire de "casser" ce modèle si l'on souhaite affiner sa sémantique en fonction de la modalité selon laquelle la fontion est rendue : mode centralisé, décentralisée ou bien distrtribué (car on ne peut "accrocher" aucune nouvelle information sur les relations déjà crées)
-Avec un mécanisme de réification, il va pouvoir être possible d'afficher cette sémantique en ajoutant une PROPERTY "Mode" sur la définition de la relation et ainsi de renseigner ce mode sur chaque instance de la relation. 
+Prennons en considération un modèle qui permet de mettre en relation des ITEMS/individus du TYPE/Classe #Product avec des ITEMS/Individus du TYPE/Classe #Function via une relation de sémantique "#Product provides #Function". 
+Sans mécanisme de réification, il sera nécessaire de "casser" ce modèle si l'on souhaite affiner sa sémantique en fonction de la modalité selon laquelle la fontion est rendue : mode centralisé, décentralisée ou bien distribué (car on ne peut "accrocher" aucune nouvelle information sur les relations déjà crées)
+Avec un mécanisme de réification, il va pouvoir être possible d'affiner cette sémantique en ajoutant une PROPERTY "Mode" sur la définition de la relation et ainsi de renseigner ce mode sur chaque instance de la relation. 
 
 ------------
 __La gestion des méta-données :__   
 L'idée de cas d'usage est de pouvoir - par exemple - enregistrer systématiquement :
-* La date à laquelle une relation à été créer/modifié
-* L'utilisateur qui à créer cette relation
-* La justification dl'existance de cette relation 
+* La date à laquelle une relation à été crée/modifiée
+* L'utilisateur qui à crée cette relation
+* La justification de l'existance de cette relation 
 * ...
