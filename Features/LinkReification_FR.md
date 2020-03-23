@@ -27,7 +27,7 @@ Cas d'usage
 * La gestion des méta-données
 (Le 2ème et le 3ème cas sont des situatiin particulière du 1er cas)
 
-__Evolution "douce" du modèle :__.  
+__Evolution "douce" du modèle :__    
 Pourvoir commencer une base de connaissances mettant en relation les TYPES/Classes #Person & #Organization selon un modèle relativement simple permettant de savoir quelle #Organization affilie quelle #Person ...   
 ... puis pouvoir le faire évoluer vers un modèle plus complexe où l'on pourrait ensuite savoir (par exemple) :
    - la date d'affiliation de la #Person
@@ -39,11 +39,15 @@ Pourvoir commencer une base de connaissances mettant en relation les TYPES/Class
    ...MAIS juste en le faisant "évoluer en douceur", en fonction des besoins nouveaux 
 
 
-__L'affinage de la sémantique des relations :__.  
+__L'affinage de la sémantique des relations :__  
 Prennons en considération un modèle qui permet de mettre en relation des ITEMS/individus du TYPE/Classe #Product avec des ITEMS/Individus du TYPE/Classe #Function via une relation de sémantique "provides". 
 Sans mécanisme de réification, il sera nécessaire de "casser" ce modèle si l'on souhaite affiner sa sémantique en fonction de la modalité selon laquelle la fontion est rendue : mode centralisé, décentralisée ou bien distrtribué (car on ne peut "accrocher" aucune nouvelle information sur les relations déjà crées)
 Avec un mécanisme de réification, il va pouvoir être possible d'afficher cette sémantique en ajoutant une PROPERTY "Mode" sur la définition de la relation et ainsi de renseigner ce mode sur chaque instance de la relation. 
 
 
-__La gestion des méta-données :__.  
-A compléter ...
+__La gestion des méta-données :__   
+L'idée de cas d'usage est de pouvoir - par exemple - enregistrre systématiquement :
+* La date à laquelle une relation à été créer/modifié
+* L'utilisateur qui à créer cette relation
+* La justification dl'existance de cette relation 
+* ...
