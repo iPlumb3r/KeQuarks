@@ -21,7 +21,7 @@ Or, dans de nombreux cas de figure on voudrait ne pas avoir à se poser se type 
 
 Cas d'usage
 -
-3 cas d'usage principaux sont succeptible d'exploiter avec profit le mécanisme de réification des liens :
+3 cas d'usage principaux sont succeptibles d'exploiter avec profit le mécanisme de réification des liens :
 * L'évolution "douce" du modèle
 * Affinage de la sémantique des relations
 * La gestion des méta-données
