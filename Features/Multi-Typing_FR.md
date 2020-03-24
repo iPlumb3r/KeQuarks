@@ -28,8 +28,8 @@ Si l'on doit traiter une situation qui nécessite de manipuler des ITEMS/Individ
 2 grandes catégories de cas d'usage
 -
 Le multi-typing est une solution "fonctionelle" qui répond globalement à 2 catégories de situation "métier"
-* Type A : 1 ITEM/Individu qui appartient "totalement" à 2 (ou plusieurs) Types/Classes (c'est typiquement le cas du bi-typage intentionel ET extensionel)
-* Type B : 1 ITEM/Individu qui est "à cheval" sur plusieurs TYPES/Classe de l'ontologie sans être ni totameent d'une TYPE/Classe, ni totalement de l'autre
+* Catégorie A : 1 ITEM/Individu qui appartient "totalement" à 2 (ou plusieurs) Types/Classes (c'est typiquement le cas du bi-typage intentionel ET extensionel)
+* Catégorie B : 1 ITEM/Individu qui est "à cheval" sur plusieurs TYPES/Classe de l'ontologie sans être ni totalement d'une TYPE/Classe, ni totalement de l'autre
 
 
 Cas d'usage de catégorie A
