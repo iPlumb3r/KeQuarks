@@ -54,7 +54,7 @@ Ici chaque "acteur" est potentiellement multi-typé :
 __Application de cartographie sémantique d'écosystème(s)__ :   
 Ici tous les éléments de la "carte" appartiennent potentiellement à 1 type intentionel et 1 type extensionel
 
-![E2M](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Multi-Typing_EcosystemMapping.png)
+![E2M](https://github.com/iPlumb3r/EcosystemMapping/blob/master/images/OWL-Ontology%40E2M_ClassView_2020-03-24.png)
 
 Cas d'usage de catégorie B
 -
