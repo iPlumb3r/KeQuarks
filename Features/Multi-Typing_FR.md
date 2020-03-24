@@ -25,14 +25,14 @@ Si l'on doit traiter une situation qui nécessite de manipuler des ITEMS/Individ
 * La solution "héritage multiple" nécessaitera 150 TYPES/Classes
 * Là, où le "typage multiple" ne requiera que 35 TYPES/Classes
 
-Typologies de cas d'usage
+Categories de cas d'usage
 -
-Le multi-typing est une solution "fonctionelle" qui répond globalement à 2 type de situation "métier"
+Le multi-typing est une solution "fonctionelle" qui répond globalement à 2 catégories de situation "métier"
 * Type A : 1 ITEM/Individu qui appartient "totalement" à 2 (ou plusieurs) Types/Classes (c'est typiquement le cas du bi-typage intentionel ET extensionel)
 * Type B : 1 ITEM/Individu qui est "à cheval" sur plusieurs TYPES/Classe de l'ontologie sans être ni totameent d'une TYPE/Classe, ni totalement de l'autre
 
 
-Cas d'usage type A
+Cas d'usage de catégorie A
 -
 Ci-après 3 cas d'usage qui montre l'importance du typage multiple pour une bonne représentation de la réalité du terrain ...  
 
@@ -56,7 +56,19 @@ Ici tous les éléments de la "carte" appartiennent potentiellement à 1 type in
 
 ![E2M](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Multi-Typing_EcosystemMapping.png)
 
-Cas d'usage type B
+Cas d'usage de catégorie B
 -
+Une ontologie ne peux parfois ne pas pouvoir prendre en compte tout les cas figure qui existe et doit faire le choix de ne proposer que des TYPES/Classes "purs" (c-à-d, non "mélangé")
 
-A compléter ...
+Or, les ITEMS/Individus du domaines de connaissances peuvent parfois être un "mélange" de différents TYPES/Classes
+
+Par exemple, il est parfois difficile de distinguer un projet de l'organisation qui le porte (ex : <a href="http://metacurrency.org/">MetaCurrency</a> ...   
+... ou bien une organisation du produit quelle propose (ex : Twitter) ...
+... ou bien parfois même une combinaison entre les 3
+
+Dans ce type de cas de figure, 2 solutions existent :
+* Ou bien on créer 2 ITEMS/Individus chacun incarnant chaque TYPE/Classe du "mélange" 
+* Ou alors on 1 unique ITEM/Individu et on l'autorise à appartenir à 2TYPES/Classes différents
+
+
+
