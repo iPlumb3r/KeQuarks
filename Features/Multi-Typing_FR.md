@@ -25,7 +25,14 @@ Si l'on doit traiter une situation qui nécessite de manipuler des ITEMS/Individ
 * La solution "héritage multiple" nécessaitera 150 TYPES/Classes
 * Là, où le "typage multiple" ne requiera que 35 TYPES/Classes
 
-Cas d'usage
+Typologies de cas d'usage
+-
+Le multi-typing est une solution "fonctionelle" qui répond globalement à 2 type de situation "métier"
+* Type A : 1 ITEM/Individu qui appartient "totalement" à 2 (ou plusieurs) Types/Classes (c'est typiquement le cas du bi-typage intentionel ET extensionel)
+* Type B : 1 ITEM/Individu qui est "à cheval" sur plusieurs TYPES/Classe de l'ontologie sans être ni totameent d'une TYPE/Classe, ni totalement de l'autre
+
+
+Cas d'usage type A
 -
 Ci-après 3 cas d'usage qui montre l'importance du typage multiple pour une bonne représentation de la réalité du terrain ...  
 
@@ -49,3 +56,7 @@ Ici tous les éléments de la "carte" appartiennent potentiellement à 1 type in
 
 ![E2M](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Multi-Typing_EcosystemMapping.png)
 
+Cas d'usage type B
+-
+
+A compléter ...
