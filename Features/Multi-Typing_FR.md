@@ -25,7 +25,7 @@ Si l'on doit traiter une situation qui nécessite de manipuler des ITEMS/Individ
 * La solution "héritage multiple" nécessaitera 150 TYPES/Classes
 * Là, où le "typage multiple" ne requiera que 35 TYPES/Classes
 
-Categories de cas d'usage
+2 grandes catégories de cas d'usage
 -
 Le multi-typing est une solution "fonctionelle" qui répond globalement à 2 catégories de situation "métier"
 * Type A : 1 ITEM/Individu qui appartient "totalement" à 2 (ou plusieurs) Types/Classes (c'est typiquement le cas du bi-typage intentionel ET extensionel)
