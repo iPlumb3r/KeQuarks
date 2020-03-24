@@ -22,7 +22,7 @@ This table allows to show if given <a href="https://github.com/iPlumb3r/KeQuarks
     <tbody>
         <tr>
             <td>KL Meta-Model</td>
-            <td>YES (Systematic)</td>
+            <td>YES (On Demand)</td>
             <td>YES</td>
             <td>YES</td>
             <td><a href="http://keeplink.com/">KeepLink</a></td>
