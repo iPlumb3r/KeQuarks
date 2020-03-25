@@ -52,3 +52,7 @@ L'idée de cas d'usage est de pouvoir - par exemple - enregistrer systématiquem
 * L'utilisateur qui à crée cette relation
 * La justification de l'existance de cette relation 
 * ...
+
+Ressources
+-
+Article : <a href="https://github.com/blazegraph/database/wiki/Reification_Done_Right">Reification Done Right</a>
