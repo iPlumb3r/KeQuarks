@@ -53,4 +53,7 @@ The idea of use cases is to be able to - for example - systematically record :
 * The justification for the existence of this relationship 
 * ...
 
+Resources
+-
+Article : <a href="https://github.com/blazegraph/database/wiki/Reification_Done_Right">Reification Done Right</a>
 
