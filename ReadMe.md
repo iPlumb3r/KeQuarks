@@ -21,7 +21,7 @@ Initiative ID Card
         <tr>
             <th>Description</th>
             <td>"Holy Grail" Quest for Knowledge Engineering "Elementary Particles"</td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1678">#1678</a></td>
+            <td>N/A</td>
         </tr>
         <tr>
             <th>Deliverable</th>
