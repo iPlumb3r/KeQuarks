@@ -86,3 +86,11 @@ Resources
 -
 A list of useful resources :  
 * <a href="https://t.me/KeQuarks">"Public" KeQuarks Telegram Group</a>  
+
+
+Icon
+-
+
+Icon
+-
+![Icon](https://github.com/iPlumb3r/KeQuarks/blob/master/images/icon%40KeQuarks.jpg)
