@@ -32,6 +32,11 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         </tr>
         <tr>
             <th>Used By</th>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks">KeQuarks</a> (Just because KeQuarks should be "self-descriptive" : Dogfooding At Works ;-)</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1682</a></td>
+        </tr>
+        <tr>
+            <th>Used By</th>
             <td><a href="https://github.com/iPlumb3r/Th3Sr1b3Pr0j3ct">Th3Sr1b3Pr0j3ct</a> (Onto-Terminology)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1677</a></td>
         </tr>
@@ -77,14 +82,6 @@ In this repository we are first listing <a href="https://github.com/iPlumb3r/KeQ
 * Which Concept pattern allow a given Feature
 * How Paradigms are classified according Concept patterns : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Concepts_x_Paradigms.md">here</a>
 * Which Paradigm allow which Feature : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features_x_Paradigms.md">here</a>
-
-
-Where Used
--
-The __KeQuarks__ (Meta-)Model should be used for the __KeQuarks__ initiative (Just because KeQuarks should be "self-descriptive" : Dogfooding At Works ;-)
-
-And also some initiatives/projects in this <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">"Big Picture" Map</a>
-
 
 Icon
 -
