@@ -41,6 +41,11 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
             <td><a href="https://www.topincs.com/EntangledBootstrap/1676">#1676</a></td>
         </tr>
         <tr>
+            <th>Telegram</th>
+            <td><a href="https://t.me/KeQuarks">https://t.me/KeQuarks</a></td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <th>Big Picture</th>
             <td><a href="https://github.com/iPlumb3r/BigPicture">SEAMLESS</a>. See <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
@@ -74,22 +79,12 @@ In this repository we are first listing <a href="https://github.com/iPlumb3r/KeQ
 * Which Paradigm allow which Feature : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features_x_Paradigms.md">here</a>
 
 
-
-
 Where Used
 -
 The __KeQuarks__ (Meta-)Model should be used for the __KeQuarks__ initiative (Just because KeQuarks should be "self-descriptive" : Dogfooding At Works ;-)
 
 And also some initiatives/projects in this <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">"Big Picture" Map</a>
 
-Resources
--
-A list of useful resources :  
-* <a href="https://t.me/KeQuarks">"Public" KeQuarks Telegram Group</a>  
-
-
-Icon
--
 
 Icon
 -
