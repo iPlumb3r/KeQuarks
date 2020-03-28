@@ -42,7 +42,7 @@ Key Concepts
             <td>#1</td>
             <td>tuple</td>
             <td>link, relation, association, ...</td>
-            <td>A link between 2 (or potentially more) #0 (topics).</td>
+            <td>A link between 2 (or potentially several) #0 (topics).</td>
             <td>The link between "Tim Berner Lee" & "W3C" (untyped, but oriented)</td>
             <td>A #1 is (also) a #0</td>
         </tr>
