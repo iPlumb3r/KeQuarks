@@ -73,7 +73,7 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>A set of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics) which are shcaring commons characteristics.</td>
+            <td>A set of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics) which are sharing commons characteristics.</td>
             <td>Un ensemble de <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topiques) qui partagent des caractéristiques communes.</td>
         </tr>
     </tbody>
