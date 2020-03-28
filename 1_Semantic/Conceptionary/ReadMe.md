@@ -19,7 +19,6 @@ Key Concepts
             <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a></td>
             <td>topic</td>
             <td>A particular thing.</td>
-
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a></td>
