@@ -94,8 +94,8 @@ Comment(s)
             <td>Ce peut être une chose tangible à base d'atomes ou bien une chose intangible à base d'énergie, de bits ou de concept(s).</td>
         </tr>
         <tr>
-            <td>Belong to <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s.md">#0s</a>, the set of ALL #0 (topics)</td>
-            <td>Appartient à <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s.md">#0s</a>, l'ensemble de TOUS les #0 (topiques)</td>
+            <td>Belong to <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a>, the set of ALL #0 (topics)</td>
+            <td>Appartient à <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a>, l'ensemble de TOUS les #0 (topiques)</td>
         </tr>
     </tbody>
 </table>
