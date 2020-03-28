@@ -101,6 +101,10 @@ Comment(s)
             <td>Could be member of several <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%231_tuple.md">#1</a> (tuples)</td>
             <td>Peut être membre de plusieurs <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%231_tuple.md">#1</a> (tuples)</td>
         </tr>
+        <tr>
+            <td>Could be member classified according several <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#1</a> (types)</td>
+            <td>Peut être classifier conformément à plusieurs <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#1</a> (types)</td>
+        </tr>
     </tbody>
 </table>
 
