@@ -73,8 +73,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230.md">#0</a> (topics).</td>
-            <td>L'ensemble de TOUS les <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230.md">#0</a>  (topiques)</td>
+            <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics).</td>
+            <td>L'ensemble de TOUS les <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topiques)</td>
         </tr>
     </tbody>
 </table>
@@ -90,8 +90,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>A particular thing.</td>
-            <td>Une chose particulière.</td>
+            <td>The prefered label is "Things" (and not "Topics"), because it contains topics, tuples & types.</td>
+            <td>Le label préféré est "Choses", (et non("Topiques"), car il contiens des topiques, des tuples et des types.</td>
         </tr>
     </tbody>
 </table>
