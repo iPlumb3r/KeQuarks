@@ -21,7 +21,7 @@ Key Concepts
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a></td>
             <td>Things</td>
-            <td>The set of ALL #0 (topics).</td>
+            <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics).</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%231_tuple.md">#1</a></td>
@@ -31,7 +31,7 @@ Key Concepts
         <tr>
             <td>#1s</td>
             <td>Tuples</td>
-            <td>The set of ALL #1 (tuples).</td>
+            <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%231_tuple.md">#1</a> (tuples).</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a></td>
@@ -41,7 +41,7 @@ Key Concepts
         <tr>
             <td>#2s</td>
             <td>Types</td>
-            <td>The set of ALL #2 (types).</td>      
+            <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (types).</td>      
         </tr>
     </tbody>
 </table>
