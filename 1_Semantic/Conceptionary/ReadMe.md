@@ -1,8 +1,6 @@
 Conceptionary
 ==
 
-To Be Completed ...
-
 Key Concepts
 -
 
@@ -47,3 +45,7 @@ Key Concepts
         </tr>
     </tbody>
 </table>
+
+Derived (Useful) Concepts
+-
+To Be Completed ...
