@@ -23,7 +23,7 @@ Alternative Label(s)
 <table>
     <thead>
         <tr>
-            <th>Paradigme</th>
+            <th>Paradigm</th>
             <th>English</th>
             <th>French</th>
         </tr>
