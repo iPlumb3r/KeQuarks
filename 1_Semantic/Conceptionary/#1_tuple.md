@@ -73,8 +73,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>A link between 2 (or potentially several) <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230.md">#0</a> (topics).</td>
-            <td>Un lien entre 2 (ou potentiellement plusieurs) <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230.md">#0</a> (topiques).</td>
+            <td>A link between 2 (or potentially several) <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics).</td>
+            <td>Un lien entre 2 (ou potentiellement plusieurs) <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topiques).</td>
         </tr>
     </tbody>
 </table>
@@ -90,8 +90,8 @@ Comment(s)
     </thead>
     <tbody>
         <tr>
-            <td>Belong to <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s.md">#0s</a>, the set of ALL #0 (topics)</td>
-            <td>Appartient à <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s.md">#0s</a>, l'ensemble de TOUS les #0 (topiques)</td>
+            <td>Belong to <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a>, the set of ALL #0 (topics)</td>
+            <td>Appartient à <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a>, l'ensemble de TOUS les #0 (topiques)</td>
         </tr>
     </tbody>
 </table>
