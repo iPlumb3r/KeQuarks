@@ -52,3 +52,6 @@ Key Concepts
 Derived (Useful) Concepts
 -
 To Be Completed ...
+
+In the process to build a ID Card for each concept of this page 
+https://github.com/iPlumb3r/KeQuarks/blob/master/Concepts/ReadMe.md
