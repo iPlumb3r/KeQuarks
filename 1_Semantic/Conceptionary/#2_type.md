@@ -89,6 +89,10 @@ Comment(s)
         </tr>
     </thead>
     <tbody>
+         <tr>
+            <td>Is also a <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topic)</td>
+            <td>Est également un <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topique)</td>
+        </tr>  
         <tr>
             <td>Belong to <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a>, the set of ALL #0 (topics)</td>
             <td>Appartient à <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a>, l'ensemble de TOUS les #0 (topiques)</td>
