@@ -1,6 +1,9 @@
 Conceptionary
 ==
 
+A short description is provided hereafter.   
+For a more complete description of each concept see its "ID Card"
+
 Key Concepts
 -
 
