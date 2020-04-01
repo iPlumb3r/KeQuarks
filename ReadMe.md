@@ -24,6 +24,11 @@ Initiative ID Card
             <td>N/A</td>
         </tr>
         <tr>
+            <th>Tags</th>
+            <td>#Modeling #MetaModeling #LinkReification #MultiTyping</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <th>Deliverable</th>
             <td>KeQuarks (Meta-)Model</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1682">#1682</a></td>
