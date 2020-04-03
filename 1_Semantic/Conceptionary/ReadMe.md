@@ -32,7 +32,7 @@ Key Concepts
             <td>A link between 2 (or potentially several) <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics).</td>
         </tr>
         <tr>
-            <td>#1s</td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%231s_Tuples.md">#1s</a></td>
             <td>Tuples</td>
             <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%231_tuple.md">#1</a> (tuples).</td>
         </tr>
