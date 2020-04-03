@@ -28,6 +28,7 @@ Well, the elements typed by this TYPE/Class are indeed ITEMS/Instances in the __
 ... but they are - also - TYPES/Classes in the __context of the business model__ of which they are part!
 ![EA](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Meta-Modeling_EA.png)
 
-Representation of the several abstraction levels required in such context :
+Representation of the several abstraction levels required in such context :    
+(Cf original SEAMLESS <a href="https://github.com/iPlumb3r/SEAMLESS/blob/master/0_UseCases/ReadMe.md">use case</a>) 
 ![Meta-Modeling UC](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/UC_Meta-Modeling_2020-04-03.jpg)
 
