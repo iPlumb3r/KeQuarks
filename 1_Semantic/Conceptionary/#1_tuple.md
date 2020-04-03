@@ -42,7 +42,7 @@ Alternative Label(s)
        <tr>
             <td>RDF(S)-OWL</td>
             <td>statement</td>
-            <td>statement</td>
+            <td>déclaration</td>
         </tr>
         <tr>
             <td>BORO</td>
