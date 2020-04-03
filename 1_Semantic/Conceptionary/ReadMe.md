@@ -61,6 +61,41 @@ __Important Note 2__ :
 
 Derived (Useful) Concepts
 -
+<table>
+    <thead>
+        <tr>
+            <th>Concept ID</th>
+            <th>Prefered Label</th>
+            <th>Description</th>      
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233_topicType.md">#3</a></td>
+            <td>topic type</td>
+            <td>A type of topics = A - given - set of "similar" topic(s).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233s_TopicTypes.md">#3s</a></td>
+            <td>Topic Types</td>
+            <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233_topicType.md">#3</a> (topic types).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233_tupleType.md">#4</a></td>
+            <td>tuple type</td>
+            <td>A type of tuples = A - given - set of "similar" tuple(s).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233s_TupleTypes.md">#4s</a></td>
+            <td>Tuple Types</td>
+            <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233_tupleType.md">#4</a> (tuple types).</td>
+        </tr>
+    </tbody>
+</table>
+
+Tuple-Based Concepts (And Role-Based Concepts)
+-
+
 To Be Completed ...
 
 In the process to build a ID Card for each concept of this page :   
