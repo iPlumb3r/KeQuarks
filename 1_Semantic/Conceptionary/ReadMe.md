@@ -42,7 +42,7 @@ Key Concepts
             <td>A set of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics) which are sharing commons characteristics.</td>           
         </tr>
         <tr>
-            <td>#2s</td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232s_Types.md">#2s</a></td>
             <td>Types</td>
             <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (types).</td>      
         </tr>
