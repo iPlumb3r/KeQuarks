@@ -32,7 +32,7 @@ Alternative Label(s)
        <tr>
             <td>KL</td>
             <td>item type</td>
-            <td>item type</td>
+            <td>type d'item</td>
         </tr>
         <tr>
             <td>O-O Languages</td>
@@ -52,7 +52,7 @@ Alternative Label(s)
         <tr>
             <td>Topic Maps</td>
             <td>topic type</td>
-            <td>topic type</td>
+            <td>type de topique</td>
         </tr>
         <tr>
             <td>Grakn</td>
@@ -73,8 +73,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>A set of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics) which are sharing commons characteristics.</td>
-            <td>Un ensemble de <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topiques) qui partagent des caractéristiques communes.</td>
+            <td>A type of topics = A - given - set of "similar" topics.</td>
+            <td>Un type de topiques = Un ensemble - donné - de topiques "semblables".</td>
         </tr>
     </tbody>
 </table>
@@ -90,13 +90,9 @@ Comment(s)
     </thead>
     <tbody>
          <tr>
-            <td>Is also a <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topic)</td>
-            <td>Est également un <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topique)</td>
+            <td>-</td>
+            <td>-</td>
         </tr>  
-        <tr>
-            <td>Belong to <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a>, the set of ALL #0 (topics)</td>
-            <td>Appartient à <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230s_Things.md">#0s</a>, l'ensemble de TOUS les #0 (topiques)</td>
-        </tr>
     </tbody>
 </table>
 
@@ -119,13 +115,7 @@ Some examples :
             <td>Organizations</td>
         </tr>
         <tr>
-            <td>Ontologies</td>
-        </tr>
-        <tr>
             <td>Softwares</td>
-        </tr>
-        <tr>
-            <td>Methodologies</td>
         </tr>
     </tbody>
 </table>
