@@ -81,12 +81,12 @@ Derived (Useful) Concepts
             <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233_topicType.md">#3</a> (topic types).</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233_tupleType.md">#4</a></td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%234_tupleType.md">#4</a></td>
             <td>tuple type</td>
             <td>A type of tuples = A - given - set of "similar" tuple(s).</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233s_TupleTypes.md">#4s</a></td>
+            <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%234s_TupleTypes.md">#4s</a></td>
             <td>Tuple Types</td>
             <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233_tupleType.md">#4</a> (tuple types).</td>
         </tr>
