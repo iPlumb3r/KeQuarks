@@ -14,58 +14,7 @@ Key Concepts
 
 Derived (Useful) Concepts
 -
-<table>
-    <thead>
-        <tr>
-            <th>Concept ID</th>
-            <th>Prefered Label</th>
-            <th>Description</th>
-            <th>Semantic Path</th>
-            <th>Example</th>
-            <th>Comment</th>         
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>#3</td>
-            <td>topic type</td>
-            <td>A type of topics = A - given - set of "similar" topic(s)</td>
-            <td>A #2 of #0 (= "#0#2")</td>
-            <td>"Persons", "Organizations", ...</td>
-            <td>#3 is a #2</td>
-        </tr>
-        <tr>
-            <td>#3s</td>
-            <td>Topic Types</td>
-            <td>The set of ALL #3 (topic type)</td>
-            <td>#0#2s</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>#4</td>
-            <td>tuple type</td>
-            <td>A type of tuples = A - given - set of "similar" tuple(s)</td>
-            <td>A #2 of #1 (= "#1#2")</td>
-            <td>"affiates to", "has part", ...</td>
-            <td>#4 is a #2</td>
-        </tr>
-        <tr>
-            <td>#4s</td>
-            <td>Tuple Types</td>
-            <td>The set of ALL #4 (tuple type)</td>
-            <td>#1#2s</td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-![Sets](https://github.com/iPlumb3r/KeQuarks/blob/master/images/KeQuarksSets_2020-03-16.png)
-
-At this point it is important to distinguish :
-* Topic-based modeling (Based on "Oriented 2-Ary Tuples") : e.g. BORO, RDF(S)-OWL, ...
-* Role-based modeling paradim (Based on "Non Oriented N-Ary Tuples") : e.g. Topic Maps, Grakn,...
+ See https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/ReadMe.md
 
 Tuple-Based Concepts (And Role-Based Concepts)
 -
