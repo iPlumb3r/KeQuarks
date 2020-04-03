@@ -49,6 +49,9 @@ Key Concepts
     </tbody>
 </table>
 
+__Illustration__
+![Concepts](https://github.com/iPlumb3r/KeQuarks/blob/master/images/KeQuarksConcepts_2020-03-16.png)
+
 Derived (Useful) Concepts
 -
 To Be Completed ...
