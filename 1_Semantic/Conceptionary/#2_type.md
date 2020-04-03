@@ -37,12 +37,12 @@ Alternative Label(s)
         <tr>
             <td>O-O Languages</td>
             <td>class</td>
-            <td>class</td>
+            <td>classe</td>
        </tr>
        <tr>
             <td>RDF(S)-OWL</td>
             <td>class</td>
-            <td>class</td>
+            <td>classe</td>
         </tr>
         <tr>
             <td>BORO</td>
