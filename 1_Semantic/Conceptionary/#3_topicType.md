@@ -73,8 +73,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>A type of topics = A - given - set of "similar" topics.</td>
-            <td>Un type de topiques = Un ensemble - donné - de topiques "semblables".</td>
+            <td>A <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (type) of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics) = A - given - set of "similar" topic(s).</td>
+            <td>Un <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (type) de <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topiques) = Un ensemble - donné - de topiques "semblables".</td>
         </tr>
     </tbody>
 </table>
