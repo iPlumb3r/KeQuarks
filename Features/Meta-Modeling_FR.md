@@ -28,3 +28,7 @@ Et bien, les éléments typés par ce TYPE/Classe sont bien des ITEMS/Instances 
 ... mais ce sont - également - des TYPES/Classes dans le __contexte du modèle métier__ dont ils font partis !
 
 ![EA](https://github.com/iPlumb3r/KeQuarks/blob/master/images/Meta-Modeling_EA.png)
+
+
+Représentation des différents niveaux d'abstraction requis en contexte :
+![Meta-Modeling UC](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/UC_Meta-Modeling_2020-04-03.jpg)
