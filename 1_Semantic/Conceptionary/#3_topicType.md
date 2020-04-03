@@ -13,7 +13,7 @@ Prefered Label
     <tbody>
         <tr>
             <td>topic type</td>
-            <td>topic type</td>
+            <td>type de topique</td>
         </tr>
     </tbody>
 </table>
