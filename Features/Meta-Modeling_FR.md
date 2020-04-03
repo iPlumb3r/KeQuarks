@@ -31,6 +31,6 @@ Et bien, les éléments typés par ce TYPE/Classe sont bien des ITEMS/Instances 
 
 
 Représentation des différents niveaux d'abstraction requis en contexte :   
-(Cf fiche originale du <a href="https://github.com/iPlumb3r/SEAMLESS/blob/master/0_UseCases/ReadMe.md">cas d'usage SEAMLESS</a>) 
+(Cf fiche originale du <a href="https://github.com/iPlumb3r/SEAMLESS/blob/master/0_UseCases/ReadMe.md">cas d'usage</a> SEAMLESS) 
 
 ![Meta-Modeling UC](https://github.com/iPlumb3r/SEAMLESS/blob/master/Images/UC_Meta-Modeling_2020-04-03.jpg)
