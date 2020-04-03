@@ -73,8 +73,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>A type of tuples = A - given - set of "similar" tuples.</td>
-            <td>Un type de tuples = Un ensemble - donné - de tuples "semblables".</td>
+            <td>A <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (type) of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%231_tuple.md">#1</a> (tuples) = A - given - set of "similar" tuples.</td>
+            <td>Un <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (type) de <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%231_tuple.md">#1</a> (tuples) = Un ensemble - donné - de tuples "semblables".</td>
         </tr>
     </tbody>
 </table>
