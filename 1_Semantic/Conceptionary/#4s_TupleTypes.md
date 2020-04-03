@@ -31,33 +31,33 @@ Alternative Label(s)
     <tbody>
        <tr>
             <td>KL</td>
-            <td>link type</td>
-            <td>type de lien</td>
+            <td>Link Types</td>
+            <td>Types de Liens</td>
         </tr>
         <tr>
             <td>O-O Languages</td>
-            <td>relation class</td>
-            <td>classe de relation</td>
+            <td>Relation Classes</td>
+            <td>Classes de Relation</td>
        </tr>
        <tr>
             <td>RDF(S)-OWL</td>
-            <td>object property</td>
-            <td>propriété objet</td>
+            <td>Object Properties</td>
+            <td>Propriétés Objet</td>
         </tr>
         <tr>
             <td>BORO</td>
-            <td>tuple type</td>
-            <td>type de tuple</td>
+            <td>Tuple Types</td>
+            <td>Types de Tuples</td>
         </tr>
         <tr>
             <td>Topic Maps</td>
-            <td>association type</td>
-            <td>type d'association</td>
+            <td>Association Types</td>
+            <td>Types d'Association</td>
         </tr>
         <tr>
             <td>Grakn</td>
-            <td>relation type</td>
-            <td>type de relation</td>
+            <td>relation Types</td>
+            <td>Types de Relation</td>
         </tr>
     </tbody>
 </table>
@@ -73,8 +73,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>A type of tuples = A - given - set of "similar" tuples.</td>
-            <td>Un type de tuples = Un ensemble - donné - de tuples "semblables".</td>
+            <td>The set of ALL <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%234_tupleType.md">#4</a> (tuple types)</td>
+            <td>L'ensemble de tout les <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%234_tupleType.md">#4</a> (types de tuple)</td>
         </tr>
     </tbody>
 </table>
@@ -109,13 +109,7 @@ Some examples :
     </thead>
     <tbody>
         <tr>
-            <td>affiliates to</td>
-        </tr>
-        <tr>
-            <td>involved in</td>
-        </tr>
-        <tr>
-            <td>has part</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
