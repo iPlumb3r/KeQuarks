@@ -73,7 +73,7 @@ Derived (Useful) Concepts
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233_topicType.md">#3</a></td>
             <td>topic type</td>
-            <td>A type of topics = A - given - set of "similar" topic(s).</td>
+            <td>A <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (type) of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%230_topic.md">#0</a> (topics) = A - given - set of "similar" topic(s).</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%233s_TopicTypes.md">#3s</a></td>
@@ -83,7 +83,7 @@ Derived (Useful) Concepts
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%234_tupleType.md">#4</a></td>
             <td>tuple type</td>
-            <td>A type of tuples = A - given - set of "similar" tuple(s).</td>
+            <td>A <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (type) of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%231_tuple.md">#1</a> (tuples) = A - given - set of "similar" tuple(s).</td>
         </tr>
         <tr>
             <td><a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%234s_TupleTypes.md">#4s</a></td>
