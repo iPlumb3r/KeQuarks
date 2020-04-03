@@ -73,8 +73,8 @@ Description
     </thead>
     <tbody>
         <tr>
-            <td>The set of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#0</a> (types).</td>
-            <td>L'ensemble de les <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#0</a> (types).</td>
+            <td>The set of <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (types).</td>
+            <td>L'ensemble de les <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/Conceptionary/%232_type.md">#2</a> (types).</td>
         </tr>
     </tbody>
 </table>
