@@ -96,12 +96,12 @@ Derived (Useful) Concepts
 __Illustration__   
 ![Sets](https://github.com/iPlumb3r/KeQuarks/blob/master/images/KeQuarksSets_2020-03-16.png)
 
+__OWL Ontology__   
+An OWL ontology of which implements this model is available <a href="http://hubject.net/iPlumb3r/Ontologies/KeQuarks_KL/index-en.html">here</a>
+
 __Important Note__ : At this point it is important to distinguish :   
 * Topic-based modeling (Based on "Oriented 2-Ary Tuples") : e.g. BORO, RDF(S)-OWL, ...
 * Role-based modeling paradim (Based on "Non Oriented N-Ary Tuples") : e.g. Topic Maps, Grakn,...
-
-__OWL Ontology__
-An OWL ontology of which implements this model is available <a href="http://hubject.net/iPlumb3r/Ontologies/KeQuarks_KL/index-en.html">here</a>
 
 
 Tuple-Based Concepts (And Role-Based Concepts)
