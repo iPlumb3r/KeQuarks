@@ -1,6 +1,6 @@
 Conceptionary
 ==
-More about <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/tree/master/2_Deliverables/Conceptionary">What is a "Conceptionary" ?</a>   
+More about What is a "Conceptionary" ? <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/tree/master/2_Deliverables/Conceptionary">here</a>   
 A short description of each Concept is provided hereafter.   
 For a more complete description of each Concept see its "ID Card"
 
