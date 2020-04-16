@@ -91,7 +91,7 @@ Comment(s)
     <tbody>
         <tr>
             <td>The prefered label is "Things" (and not "Topics"), because it contains topics, tuples & types.</td>
-            <td>Le label préféré est "Choses", (et non("Topiques"), car il contiens des topiques, des tuples et des types.</td>
+            <td>Le label préféré est "Choses", (et non "Topiques"), car il contiens des topiques, des tuples et des types.</td>
         </tr>
     </tbody>
 </table>
