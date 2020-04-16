@@ -1,8 +1,8 @@
 Conceptionary
 ==
 If you want to learn more about "What is a __Conceptionary__ ?", you can have a look <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/tree/master/2_Deliverables/Conceptionary">here</a>   
-* A short description of each Concept is provided hereafter.   
-* For a more complete description of each Concept just open its "ID Card" (Link in the Concept ID column)
+* A short description of each Concept is provided hereafter in this page. 
+* For a more complete description of each Concept just open its "ID Card" (Thanks to the link in the "Concept ID" column).
 
 Key Concepts
 -
