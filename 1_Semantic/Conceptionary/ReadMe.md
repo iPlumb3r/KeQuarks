@@ -1,8 +1,8 @@
 Conceptionary
 ==
-
-A short description is provided hereafter.   
-For a more complete description of each concept see its "ID Card"
+More about <a href="https://github.com/iPlumb3r/BizApp-Spec-Methodo/tree/master/2_Deliverables/Conceptionary">What is a "Conceptionary" ?</a>
+A short description of each Cocnept is provided hereafter.   
+For a more complete description of each Concept see its "ID Card"
 
 Key Concepts
 -
