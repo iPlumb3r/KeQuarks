@@ -28,7 +28,7 @@ There are 3 main use cases that can profitably exploit the __mechanism of reific
 (The 2nd and 3rd cases are particular situations of the 1st case).
 
 ------------
-__"Soft" evolution of the model :__    
+__"Smooth evolution of the model :__    
 To be able to start a knowledge base linking the TYPES/Classes #Person & #Organization according to a relatively simple model allowing to know which #Organization affiliates which #Person ...   
 ... then be able to evolve it into a more complex model where we could then know (for example) :
    - when the #Person became a member...
