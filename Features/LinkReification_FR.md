@@ -56,3 +56,4 @@ L'idée de cas d'usage est de pouvoir - par exemple - enregistrer systématiquem
 Ressources
 -
 Article : <a href="https://github.com/blazegraph/database/wiki/Reification_Done_Right">Reification Done Right</a>
+Article : <<a href="https://github.com/blazegraph/database/wiki/Reification_Done_Right">RDF* and SPARQL* (The modeling challenge)</a>
