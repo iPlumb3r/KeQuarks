@@ -55,5 +55,6 @@ The idea of use cases is to be able to - for example - systematically record :
 
 Resources
 -
-Article : <a href="https://github.com/blazegraph/database/wiki/Reification_Done_Right">Reification Done Right</a>
+Article : <a href="https://github.com/blazegraph/database/wiki/Reification_Done_Right">Reification Done Right</a>   
+Article : <a href="https://github.com/blazegraph/database/wiki/Reification_Done_Right">RDF* and SPARQL* (The modeling challenge)</a>
 
