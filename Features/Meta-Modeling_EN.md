@@ -11,7 +11,7 @@ Allows a "smooth" transition from _a taxonomy to an ontology_.
 
 Emblematic situation
 -
-__Case the ontology <a href="http://virtual-assembly.org/ontologies/pair/index-fr.html">PAIR</a>__.  
+__Case of the <a href="http://virtual-assembly.org/ontologies/pair/index-fr.html">PAIR</a>__ ontology. 
 In this ontology, it has been decided to treat the TYPE/Class #Organization at a relatively generic level that does not distinguish for example between a company, an association or a university ...  
 It is a choice "by design" which requires in // to have one of a TYPE/Class #OrganizationType whose elements are ITEMS/Individuals (Company, Association, University, ...).  
 If the PAIR model should evolve in order to deal with problems related to teaching, it should probably be possible to ensure that the University is no longer "only" an ITEM/Individual of the TYPE/Class #OrganizationType, but becomes the TYPE/Class #University in its own right, with its own PROPERTY and LINK.
