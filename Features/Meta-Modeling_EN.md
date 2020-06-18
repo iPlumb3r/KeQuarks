@@ -20,7 +20,7 @@ If the PAIR model should evolve in order to deal with problems related to teachi
 __Case of "Enterprise architecture" context__ :   
 This is a strong requirement in enterprise architecture models in which a sub-part of the model is in fact devoted to the generation of the models that the company must manage. (See use cases below)
 
-Cases of use
+Use case
 -
 In the context of an Enterprise Architecture (EA) (meta-)model, it is - quasi-systematically - necessary to drive the business models of the enterprise from a sub-part of this (meta-)model consisting of the TYPE/Class - named in the illustration below - "Business Subject".
 
