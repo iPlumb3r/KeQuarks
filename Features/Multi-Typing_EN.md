@@ -3,7 +3,7 @@ Multiple typing
 
 Definition
 -
-The __multiple typing__ consists in the fact that an ITEM/Individual can _ belong to 2 (or more) TYPES/Classes at the same time.     
+The __multiple typing__ consists in the fact that an ITEM/Individual can belong to 2 (or more) TYPES/Classes at the same time.     
 > This is a feature that becomes necessary very quickly as soon as the knowledge domain becomes a bit "chunky".
 
 What about OWL?
