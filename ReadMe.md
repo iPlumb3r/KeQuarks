@@ -70,7 +70,7 @@ _Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/ma
 
 Introduction
 -
-__KeQuarks__ is the develiverable of the _"holy grail" quest_ for __Knowledge Engineering "Elementary Particles"__ ;-)
+__KeQuarks__ is the deliverable of the _"holy grail" quest_ for __Knowledge Engineering "Elementary Particles"__ ;-)
 
 The goal of this initiative is to identify and define __relevant__ Concepts & (Meta)-Models for designing __poweful__ Model(s).
 * <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">Concept</a> identification is done by selecting them in already existing relevant <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">Paradigms</a> (Benchmark approach)
@@ -89,9 +89,9 @@ Content
 -
 In this repository we are first listing <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Concepts">Concepts</a>, <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Features">Features</a> (allowed by Concept patterns) & <a href="https://github.com/iPlumb3r/KeQuarks/tree/master/Paradigms">Paradigms</a> ...   
 ... and then we are trying to determine :
-* Which Concept pattern allow a given Feature
-* How Paradigms are classified according Concept patterns : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Concepts_x_Paradigms.md">here</a>
-* Which Paradigm allow which Feature : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features_x_Paradigms.md">here</a>
+* Which Concept pattern allows a given Feature
+* How Paradigms are classified according to Concept patterns : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Concepts_x_Paradigms.md">here</a>
+* Which Paradigms allow which Features : <a href="https://github.com/iPlumb3r/KeQuarks/blob/master/Features_x_Paradigms.md">here</a>
 
 Icon
 -
